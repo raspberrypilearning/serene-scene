@@ -82,7 +82,9 @@ Now you are going to use the value of the `tree`{:class="block3variables"} varia
 
 Use a `when flag clicked`{:class="block3events"} with a `forever`{:class="block3control"} loop to begin. Add in a `set size`{:class="block3looks"} block to the loop.
 
-This means that once the flag is clicked, the `set size`{:class="block3looks"} in the `forever`{:class="block3control"} loop will keep going until you quit the program
+This means that once the flag is clicked, the `set size`{:class="block3looks"} in the `forever`{:class="block3control"} loop will keep the tree size at 100%.
+
+![tree sprite image](images/tree-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -94,7 +96,7 @@ set size to [100] %
 
 --- task ---
 
-Now add the `tree`{:class="block3variables"} variable, into the `set size`{:class="block3looks"} block
+Now add the `tree`{:class="block3variables"} variable, into the `set size`{:class="block3looks"} block.
 
 --- no-print ---
 
@@ -102,19 +104,25 @@ Now add the `tree`{:class="block3variables"} variable, into the `set size`{:clas
 
 --- /no-print ---
 
+![tree sprite image](images/tree-sprite.png)
+
 ```blocks3
 when flag clicked
 forever
-set size to (tree) %
++ set size to (tree) %
 ```
 
 --- /task ---
 
 You can now move the slider, to adjust the size of the tree
 
+--- no-print ---
+
 ![animated gif showing the tree slider being adjusted and the tree changing in size](images/change-tree.gif)
 
-At the moment the tree can be changed from `0`{:class="block3variables"} to `100`{:class="block3variables"}, but this can be changed.
+--- /no-print ---
+
+At the moment the tree size can only be changed from `0`{:class="block3variables"} to `100`{:class="block3variables"}.
 
 --- task ---
 
