@@ -1,3 +1,136 @@
-## Step title
+## Grow a tree
 
-+ Step content...
+--- task ---
+
+Open the starter Scratch project either online at [rpf.io/dm-meadow-start](https://rpf.io/serene-scene){:target="_blank"} or download the starer project at [rpf.io/p/en/mindful-meadow-on](https://rpf.io/p/en/serene-scene)
+
+--- /task ---
+
+You should see a forest scene with a tree, flowers and a grasshopper.
+
+![image of stage for the starter project containing a tree, some flowers, a grasshopper and a forest background](images/stage_1.png)
+
+To begin you are going to use a `variable`{:class="block3variables"} to make the tree change size.
+
+--- task ---
+
+Select the tree sprite in the **Sprites Pane**
+
+![sprites shown with the tree selected](images/sprites.png)
+
+--- /task ---
+
+A `variable`{:class="block3variables"} is a way of storing a number or some text. 
+
+--- task ---
+
+Create a new `variable`{:class="block3variables"} in Scratch by clicking on the ![image showing variable menu](images/variable.png) menu on the left of the screen and then clicking on the ![image showing the make a variable button](images/make-a-variable.png) button.
+
+You can then give your `variable`{:class="block3variables"} a name. Call this one `tree`{:class="block3variables."}
+
+![image showing dialogue box for creating and naming a variable, with the name field filled out with tree](images/name-a-variable.png)
+
+--- /task ---
+
+You should now see five new blocks that you can use.
+
+```blocks3
+(tree)
+
+set [tree v] to [0]
+
+change [tree v] by [1]
+
+show variable [tree v]
+
+hide variable [tree v]
+```
+
+You will also see that the `tree`{:class="block3"} variable is visible on the stage.
+
+![image showing the stage with the tree variable visable](images/stage_2.png)
+
+--- task ---
+
+There are many ways to control the `value`{:class="block3variables"} of a `variable`{:class="block3variables"}, but in this project you are going to use `sliders`{:class="block3variables"}.
+
+On the stage, right click on the variable and you should see a menu appear.
+
+![image showing context menu for the variable on the stage](images/variable-menu.png)
+
+Select **slider** from the menu.
+
+![image showing tree variable with slider](images/tree-slider.png)
+
+--- /task ---
+
+--- task ---
+
+Move the slider backwards and forward, and you will see that the value of the `variable`{:class="block3variables"} changes between `0`{:class="block3variables"} and `100`{:class="block3variables"}.
+
+--- /task ---
+
+Now you are going to use the value of the `tree`{:class="block3variables"} variable to change the size of the tree.
+
+--- task ---
+
+Use a `when flag clicked`{:class="block3events"} with a `forever`{:class="block3control"} loop to begin. Add in a `set size`{:class="block3looks"} block to the loop.
+
+This means that once the flag is clicked, the `set size`{:class="block3looks"} in the `forever`{:class="block3control"} loop will keep going until you quit the program
+
+```blocks3
+when flag clicked
+forever
+set size to [100] %
+```
+
+--- /task ---
+
+--- task ---
+
+Now add the `tree`{:class="block3variables"} variable, into the `set size`{:class="block3looks"} block
+
+--- no-print ---
+
+![animate gif showing the tree variable placed inside the set size block](images/place-variable.gif]
+
+--- /no-print ---
+
+```blocks3
+when flag clicked
+forever
+set size to (tree) %
+```
+
+--- /task ---
+
+You can now move the slider, to adjust the size of the tree
+
+![animated gif showing the tree slider being adjusted and the tree changing in size](images/change-tree.gif)
+
+At the moment the tree can be changed from `0`{:class="block3variables"} to `100`{:class="block3variables"}, but this can be changed.
+
+--- task ---
+
+Right click on the `tree`{:class="block3variables"} slider on the stage and select **change slider range**
+
+![image showing context menu for the slider, with change slider range visible](images/slider-range.png)
+
+--- /task ---
+
+--- task ---
+
+Change the range from between `100`{:class="block3variables"} and `300`{:class="block3variables"}.
+
+![image showing slider dialogue box with minimum set to 100 and maximum set to 300](images/adjusted-range.png)
+
+Now move the slider to watch your tree grow from 100% to 300%.
+
+--- /task ---
+
+
+
+
+
+
+
