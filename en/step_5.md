@@ -64,7 +64,7 @@ If you click the greenflag and move the slider, you'll notice that the grasshopp
 
 --- task ---
 
-In the `Operators`{:class="block3operators"} menu, find the `multiply`{:class="block3operators"} block
+In the `Operators`{:class="block3operators"} menu, find the `/`{:class="block3operators"} block
 
 ```blocks3
 [] / []
