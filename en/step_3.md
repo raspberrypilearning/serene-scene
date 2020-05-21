@@ -17,7 +17,7 @@ You can change the `color effect`{:class="block3looks"} of the flowers, in the s
 ```blocks3
 when flag clicked
 forever
-change [color v] effect to [0]
+set [color v] effect to [0]
 ```
 
 --- /task ---
@@ -31,7 +31,7 @@ Then add in your `flowers`{:class="block3variables"} variable.
 ```blocks3
 when flag clicked
 forever
-+ change [color v] effect to (flowers)
++ set [color v] effect to (flowers)
 ```
 
 --- /task ---

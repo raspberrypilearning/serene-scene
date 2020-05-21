@@ -66,7 +66,7 @@ Create a `rain`{:class="block3variables"} variable and make it appear as a slide
 
 --- task ---
 
-Add code to play the `Rain`{:class="block3sounds"} sound forever, and change the volume of the sound to the value of the variable.
+Add code to play the `Rain`{:class="block3sound"} sound forever, and change the volume of the sound to the value of the variable.
 
 ![image of backdrop](images/backdrop-sprite.png)
 
@@ -78,6 +78,7 @@ play sound [Rain v] until done
 when flag clicke
 forever
 set volume to (rain) %
+```
 
 --- /task ---
 

@@ -37,7 +37,7 @@ The grasshopper is moving a little quickly at the moment, but you can slow it do
 
 --- task ---
 
-Create a new variable and switch it to a slider. You can call the variable `grasshopper`{:class="block3"}.
+Create a new variable and switch it to a slider. You can call the variable `grasshopper`{:class="block3variables"}.
 
 --- /task ---
 
@@ -51,11 +51,11 @@ Now you can use a `wait`{:class="block3control"} block to slow the grasshopper d
 when flag clicked
 go to [back v] layer
 set rotation style [left-right v]
-+ forever
+forever
 move [5] steps
 next costume
 if on edge, bounce
-wait (grasshopper) seconds
++ wait (grasshopper) seconds
 ```
 
 --- /task ---
@@ -82,11 +82,11 @@ Now drag this into your script to divide the `grasshopper`{:class="block3variabl
 when flag clicked
 go to [back v] layer
 set rotation style [left-right v]
-+ forever
+forever
 move [5] steps
 next costume
 if on edge, bounce
-wait ((grasshopper) / [100]) seconds
++ wait ((grasshopper) / [100]) seconds
 ```
 
 --- /task ---
