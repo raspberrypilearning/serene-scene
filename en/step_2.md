@@ -10,7 +10,7 @@ You should see a forest scene with a tree, flowers and a grasshopper.
 
 ![image of stage for the starter project containing a tree, some flowers, a grasshopper and a forest background](images/stage_1.png)
 
-To begin you are going to use a `variable`{:class="block3variables"} to make the tree change size.
+To begin you are going to to make the tree change size.
 
 --- task ---
 
@@ -24,11 +24,17 @@ A `variable`{:class="block3variables"} is a way of storing a number or some text
 
 --- task ---
 
-Create a new `variable`{:class="block3variables"} in Scratch by clicking on the ![image showing variable menu](images/variable.png) menu on the left of the screen and then clicking on the ![image showing the make a variable button](images/make-a-variable.png) button.
+Create a new `variable`{:class="block3variables"} in Scratch by clicking on the `variables`{:class="block3variables"} menu.
 
-You can then give your `variable`{:class="block3variables"} a name. Call this one `tree`{:class="block3variables."}
+![image showing variable menu](images/variable.png) 
 
-![image showing dialogue box for creating and naming a variable, with the name field filled out with tree](images/name-a-variable.png)
+Then click on the **Make a variable buuton**.
+
+![image showing the make a variable button](images/make-a-variable.png) button.
+
+You can give your `variable`{:class="block3variables"} a name. Call this one `tree`{:class="block3variables"}.
+
+![image showing dialogue box for creating and naming a variable, with the name field filled out with tree](images/name-variable.png)
 
 --- /task ---
 
@@ -46,7 +52,7 @@ show variable [tree v]
 hide variable [tree v]
 ```
 
-You will also see that the `tree`{:class="block3"} variable is visible on the stage.
+You will also see that the `tree`{:class="block3variables"} variable is visible on the stage.
 
 ![image showing the stage with the tree variable visable](images/stage_2.png)
 
@@ -92,7 +98,7 @@ Now add the `tree`{:class="block3variables"} variable, into the `set size`{:clas
 
 --- no-print ---
 
-![animate gif showing the tree variable placed inside the set size block](images/place-variable.gif]
+![animate gif showing the tree variable placed inside the set size block](images/place-variable.gif)
 
 --- /no-print ---
 
