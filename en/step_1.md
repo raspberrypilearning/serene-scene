@@ -1,38 +1,59 @@
 ## Introduction
 
-Add project description here. What will learners be making?
-
-### What you will make
-
 --- no-print ---
-Add instructions for using the embedded content here.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
+Click the green flag and then move the sliders to change the scene.
+
+<div>
+<iframe src="https://scratch.mit.edu/projects/397270866/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
+
 --- /no-print ---
 
 --- print-only ---
-![Complete project](images/showcase_static.png)
+
+![Complete project](images/banner.png)
+
 --- /print-only ---
 
 --- collapse ---
 ---
-title: What you will need
+title: Define the challenge
 ---
+
+People find nature relaxing, so the challenge in this project is to create a serene (meaning peaceful) forest, that you can look at, listen to, and relax.
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: Discover what you will need
+---
+
 ### Hardware
 
-+ Describe hardware here
+- A computer
 
 ### Software
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
++ Scratch 3 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
 
-### Downloads
+--- /collapse ---
 
-+ [rpf.io/project-name-go](http://rpf.io/project-name-go){:target="_blank"}
+--- collapse ---
+---
+
+title: Design and Decompose the project
+
+---
+
+You will start with still forest scene, then use variable to control the size of a tree, the brightness of the light, the colour of some flowers and the speed of a grasshopper. You will need to:
+
+- Change the size of the tree
+- Change the brightness of the backdrop
+- Change the volume of the rain sound
+- Change the colour fo the flowers
+- Change the speed that the grasshopper moves with.
 
 --- /collapse ---
 
@@ -41,8 +62,9 @@ title: What you will need
 title: What you will learn
 ---
 
-+ Two or three learning objectives
-+ ...should go here
+- How to create variables
+- How to change variable values using sliders
+- How to use forever loops to check variable values.
 
 --- /collapse ---
 
@@ -51,8 +73,8 @@ title: What you will learn
 title: Additional information for educators
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/serene-scene/print){:target="_blank"}.
 
-[Here is a link to the resources for this project](http://rpf.io/project-name-go).
+[Here is a link to the resources for this project](http://rpf.io/p/en/serene-scene-get).
 
 --- /collapse ---

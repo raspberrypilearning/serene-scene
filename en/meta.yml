@@ -11,3 +11,6 @@ steps:
   - title: Colour the flowers
   - title: Set the scene
   - title: Add some fauna
+  - title: "Challenge: Add a butterfly"
+  challenge: true
+  - title: What next?
