@@ -2,7 +2,11 @@
 
 --- task ---
 
-Open the starter Scratch project either online at [rpf.io/serene-scene-on](http://rpf.io/serene-scene-on){:target="_blank"} or download the starer project at [rpf.io/p/en/mindful-meadow-on](https://rpf.io/p/en/serene-scene)
+Open the starter Scratch project online at [rpf.io/serene-scene-on](http://rpf.io/serene-scene-on){:target="_blank"}
+
+If you are working offline you will need the Scratch software installed from [rpfi.io/scratch-off](rpf.io/scratch-off)
+
+You can then download the starter project at [rpf.io/p/en/serene-scene-go](https://rpf.io/p/en/serene-scene-go) and use 
 
 --- /task ---
 
