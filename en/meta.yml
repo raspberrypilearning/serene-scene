@@ -1,6 +1,6 @@
-title: serene-scene
+title: Serene Scene
 hero_image: images/banner.png
-description: serene-scene description
+description: Create a peacful forest scene for you to look at and relax.
 version: 4
 listed: false
 copyedit: false
@@ -12,5 +12,5 @@ steps:
   - title: Set the scene
   - title: Add some fauna
   - title: "Challenge: Add a butterfly"
-  challenge: true
+    challenge: true
   - title: "What next?"
