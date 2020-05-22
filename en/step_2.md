@@ -2,7 +2,7 @@
 
 --- task ---
 
-Open the starter Scratch project either online at [rpf.io/dm-meadow-start](https://rpf.io/serene-scene){:target="_blank"} or download the starer project at [rpf.io/p/en/mindful-meadow-on](https://rpf.io/p/en/serene-scene)
+Open the starter Scratch project either online at [rpf.io/serene-scene-on](http://rpf.io/serene-scene-on){:target="_blank"} or download the starer project at [rpf.io/p/en/mindful-meadow-on](https://rpf.io/p/en/serene-scene)
 
 --- /task ---
 
