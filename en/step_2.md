@@ -28,7 +28,7 @@ Create a new `variable`{:class="block3variables"} in Scratch by clicking on the 
 
 ![image showing variable menu](images/variable.png) 
 
-Then click on the **Make a variable buuton**.
+Then click on the **Make a variable button**.
 
 ![image showing the make a variable button](images/make-a-variable.png) button.
 
@@ -54,7 +54,7 @@ hide variable [tree v]
 
 You will also see that the `tree`{:class="block3variables"} variable is visible on the stage.
 
-![image showing the stage with the tree variable visable](images/stage_2.png)
+![image showing the stage with the tree variable visible](images/stage_2.png)
 
 --- task ---
 

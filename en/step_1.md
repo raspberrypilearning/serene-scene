@@ -52,7 +52,7 @@ You will start with still forest scene, then use variable to control the size of
 - Change the size of the tree
 - Change the brightness of the backdrop
 - Change the volume of the rain sound
-- Change the colour fo the flowers
+- Change the colour of the flowers
 - Change the speed that the grasshopper moves with.
 
 --- /collapse ---

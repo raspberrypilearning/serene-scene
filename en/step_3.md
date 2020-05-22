@@ -44,7 +44,7 @@ Right click on the `flowers`{:class="block3variables"} variable on the stage and
 
 Now change the slider ranger from `-100`{:class="block3variables"} to `100`{:class="block3variables"}
 
-![image showing the dialogue box for adjusting the range of the flowers vaariable with -100 as minimum and 100 as maximum](images/flowers-range.png)
+![image showing the dialogue box for adjusting the range of the flowers variable with -100 as minimum and 100 as maximum](images/flowers-range.png)
 
 --- /task ---
 

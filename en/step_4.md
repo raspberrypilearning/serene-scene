@@ -16,7 +16,7 @@ Click on Create a new variable and call it `light`{:class="block3variables"}. Ch
 
 Just as before, you can use this variable to change the appearance of the stage's backdrop.
 
-Use the `set color effect`{:class="block3looks"} block, but use the dropdown menu to change `color`{:class="block3looks"} to `brightness`{:class="block3looks"}.
+Use the `set color effect`{:class="block3looks"} block, but use the drop down menu to change `color`{:class="block3looks"} to `brightness`{:class="block3looks"}.
 
 ![image showing selection for the looks effect block](images/brightness.png)
 
@@ -54,7 +54,7 @@ Click the icon in the bottom left of the screen to add a sound.
 
 You can now search for sounds. In this project we will use the rain sound, but you can choose anything you like.
 
-![image showing search and selection fo rain sound](images/rain.png)
+![image showing search and selection of rain sound](images/rain.png)
 
 --- /task ---
 

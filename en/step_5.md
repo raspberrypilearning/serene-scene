@@ -60,7 +60,7 @@ if on edge, bounce
 
 --- /task ---
 
-If you click the greenflag and move the slider, you'll notice that the grasshopper moves very slowly. This can be fixed by multiplying the `grasshopper`{:class="block3variables"} variable by a number smaller that 1.
+If you click the green flag and move the slider, you'll notice that the grasshopper moves very slowly. This can be fixed by multiplying the `grasshopper`{:class="block3variables"} variable by a number smaller that 1.
 
 --- task ---
 
