@@ -1,10 +1,10 @@
 ## Colour the flowers
 
-You can use the same method with the tree, to change the colour of the flowers.
+You changed the `size`{:class="block3looks"} of the tree by using a `tree`{:class="block3variables"} variable. You can now use a variable to change the colour of the flowers.
 
 --- task ---
 
-Click on the flowers sprite and then create a new variable called `flowers`{:class="block3variables"}
+Click on the flowers sprite and then create a new variable called `flowers`{:class="block3variables"}. Go back to the previous step if you can't remember how to do this.
 
 --- /task ---
 

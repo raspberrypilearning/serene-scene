@@ -1,6 +1,6 @@
 ## Set the scene
 
-In Scratch you can also add code to the Stage, rather than a Sprite. In this step you will change the brightness of the back drop and add some soothing sound effect.
+In Scratch you can also add code to the Stage, rather than a Sprite. In this step you will change the brightness of the back drop and add some soothing sound effects.
 
 --- task ---
 
@@ -8,7 +8,7 @@ Click on the stage's backdrop to select it.
 
 ![image of backdrop selection](images/backdrop.png)
 
-Click on Create a new variable and call it `light`{:class="block3variables"}. Change the variable to a slider with a range between `-40`{:class="block3variables"} and `40`{:class="block3variables"}.
+Click on `Create a new variable`{:class="block3variables"} and call it `light`{:class="block3variables"}. Change the variable to a slider with a range between `-40`{:class="block3variables"} and `40`{:class="block3variables"}.
 
 --- /task ---
 
@@ -75,7 +75,7 @@ when flag clicked
 forever
 play sound [Rain v] until done
 
-when flag clicke
+when flag clicked
 forever
 set volume to (rain) %
 ```
