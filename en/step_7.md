@@ -3,11 +3,9 @@
 --- collapse ---
 ---
 
-title: Question 1
+title: Question 1 - Which of the following blocks would set the size of a sprite to 50% using a variable?
 
 ---
-
-Which of the following blocks would set the size of a sprite to 50% using a variable?
 
 --- task ---
 
@@ -53,11 +51,9 @@ set size to (tree) %
 --- collapse ---
 ---
 
-title: Question 2
+title: Question 2- Which of the following blocks would be used to change the position of a sprite, using a variable slider?
 
 ---
-
-Which of the following blocks would be used to change the position of a sprite, using a variable slider?
 
 --- task ---
 
@@ -106,11 +102,9 @@ set [color v] effect to (grass)
 --- collapse ---
 ---
 
-title: Question 3
+title: Question 3 - Which blocks could be used to make a sprite pause for less than a second, using a variable slider?
 
 ---
-
-Which blocks could be used to make a sprite pause for less than a second, using a variable slider?
 
 --- task ---
 
