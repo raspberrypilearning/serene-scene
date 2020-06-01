@@ -102,7 +102,7 @@ wait ((time) * (0.01)) seconds
 ```
 
 ### C
-```blocks
+```blocks3
 wait (time) seconds
 ```
 
