@@ -13,4 +13,5 @@ steps:
   - title: Add some fauna
   - title: "Challenge: Add a butterfly"
     challenge: true
+  - title: Demonstrate your project
   - title: "What next?"

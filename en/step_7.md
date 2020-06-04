@@ -1,5 +1,5 @@
-## What next?
+## Demonstrate your project
 
-If you are following along with the Mindfulness pathway then tryout the [PROJECT NAME HERE](PROJECT URL HERE) project.
+You can share your completed Scratch project with your friends and family, by following the instructions below.
 
-If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch).
+[[[share-scratch]]]
