@@ -1,5 +1,7 @@
 ## Introduction
 
+People find nature relaxing, so the challenge in this project is to create a serene (meaning peaceful) forest, that you can look at, listen to, and relax.
+
 --- no-print ---
 
 Click the green flag and then move the sliders to change the scene.
@@ -18,16 +20,7 @@ Click the green flag and then move the sliders to change the scene.
 
 --- collapse ---
 ---
-title: Define the challenge
----
-
-People find nature relaxing, so the challenge in this project is to create a serene (meaning peaceful) forest, that you can look at, listen to, and relax.
-
---- /collapse ---
-
---- collapse ---
----
-title: Discover what you will need
+title: What you will need
 ---
 
 ### Hardware
@@ -37,23 +30,6 @@ title: Discover what you will need
 ### Software
 
 + Scratch 3 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-
---- /collapse ---
-
---- collapse ---
----
-
-title: Design and Decompose the project
-
----
-
-You will start with still forest scene, then use variable to control the size of a tree, the brightness of the light, the colour of some flowers and the speed of a grasshopper. You will need to:
-
-- Change the size of the tree
-- Change the brightness of the backdrop
-- Change the volume of the rain sound
-- Change the colour of the flowers
-- Change the speed that the grasshopper moves with.
 
 --- /collapse ---
 
