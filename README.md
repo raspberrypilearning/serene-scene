@@ -1,4 +1,4 @@
-# serene-scene
+# Serene scene
 
 ![serene-scene](banner.png)
 
