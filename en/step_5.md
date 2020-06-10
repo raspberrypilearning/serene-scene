@@ -33,7 +33,7 @@ if on edge, bounce
 ```
 --- /task ---
 
-The grasshopper is moving a little quickly at the moment, but you can slow it down using a `variable`{:class="block3variables"} and a `wait`{:class="block3control"} block.
+The grasshopper is moving a little quickly at the moment, but you can slow it down by using a `variable`{:class="block3variables"} and a `wait`{:class="block3control"} block.
 
 --- task ---
 
