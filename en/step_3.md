@@ -24,7 +24,7 @@ set [color v] effect to [0]
 
 --- task ---
 
-Then add in your `flowers`{:class="block3variables"} variable.
+Then add your `flowers`{:class="block3variables"} variable.
 
 ![image of flowers sprite](images/flowers-sprite.png)
 
