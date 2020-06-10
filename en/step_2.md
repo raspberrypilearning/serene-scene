@@ -12,7 +12,7 @@ You should see a forest scene with a tree, flowers and a grasshopper.
 
 ![image of stage for the starter project containing a tree, some flowers, a grasshopper and a forest background](images/stage_1.png)
 
-To begin you are going to to make the tree change size.
+To begin you are going to to make the tree change its size.
 
 --- task ---
 
