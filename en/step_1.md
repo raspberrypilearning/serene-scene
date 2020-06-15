@@ -1,6 +1,6 @@
 ## Introduction
 
-You are going to **develop** a serene (meaning peacful) scene of a wood, that you can look at, listen to, and relax.
+You are going to **develop** a serene (meaning peaceful) scene of a wood, that you can look at, listen to, and relax.
 
 --- no-print ---
 
