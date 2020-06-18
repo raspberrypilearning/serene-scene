@@ -16,7 +16,7 @@ To begin, you are going to to make the tree change its size.
 
 --- task ---
 
-Select the tree sprite in the **Sprites Pane**
+Select the **Tree1** sprite.
 
 ![sprites shown with the tree selected](images/sprites.png)
 
@@ -30,7 +30,7 @@ Create a new `variable`{:class="block3variables"} in Scratch by clicking on the 
 
 ![image showing variable menu](images/variable.png) 
 
-Then click on the **Make a variable button**.
+Then click on the **Make a variable** button.
 
 ![image showing the make a variable button](images/make-a-variable.png) button.
 
