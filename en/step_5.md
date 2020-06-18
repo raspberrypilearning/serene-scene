@@ -1,10 +1,10 @@
 ## Add some fauna
 
-Fauna just means animals, and in this step you'll add a moving grasshopper to your serene scene.
+Fauna means animals. In this step you'll add a moving grasshopper to your serene scene.
 
 --- task ---
 
-Set up the grasshopper so that it moves from left to right and appears behind the trees and the flowers.
+Set up the Grasshopper sprite so that it moves from left to right and appears behind the tree and flowers.
 
 ![image of grasshopper sprite](images/grasshopper-sprite.png)
 
@@ -33,7 +33,7 @@ if on edge, bounce
 ```
 --- /task ---
 
-The grasshopper is moving a little quickly at the moment, but you can slow it down by using a `variable`{:class="block3variables"} and a `wait`{:class="block3control"} block.
+The Grasshopper sprite is moving a little quickly at the moment, but you can slow it down by using a `variable`{:class="block3variables"} and a `wait`{:class="block3control"} block.
 
 --- task ---
 
@@ -64,7 +64,7 @@ If you click the green flag and move the slider, you'll notice that the grasshop
 
 --- task ---
 
-In the `Operators`{:class="block3operators"} menu, find the `/`{:class="block3operators"} block
+In the `Operators`{:class="block3operators"} menu, find the `/`{:class="block3operators"} block.
 
 ```blocks3
 [] / []
@@ -91,7 +91,7 @@ if on edge, bounce
 
 --- /task ---
 
-Now when you adjust the slider, the grasshopper will move at a different speed. You might also like to adjust the slider range down to between 0 and 20
+When you adjust the slider, the grasshopper will move at a different speed. You might also like to adjust the slider range down to between 0 and 20
 
 
 
