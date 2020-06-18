@@ -12,7 +12,7 @@ You should see a forest scene with a tree, flowers and a grasshopper.
 
 ![image of stage for the starter project containing a tree, some flowers, a grasshopper and a forest background](images/stage_1.png)
 
-To begin you are going to to make the tree change its size.
+To begin, you are going to to make the tree change its size.
 
 --- task ---
 
@@ -22,7 +22,7 @@ Select the tree sprite in the **Sprites Pane**
 
 --- /task ---
 
-A `variable`{:class="block3variables"} is a way of storing a number or some text. 
+A `variable`{:class="block3variables"} is a way of storing numbers and/or text. 
 
 --- task ---
 
@@ -34,7 +34,7 @@ Then click on the **Make a variable button**.
 
 ![image showing the make a variable button](images/make-a-variable.png) button.
 
-You can give your `variable`{:class="block3variables"} a name. Call this one `tree`{:class="block3variables"}.
+You can give your `variable`{:class="block3variables"} a name. Call this variable `tree`{:class="block3variables"}.
 
 ![image showing dialogue box for creating and naming a variable, with the name field filled out with tree](images/name-variable.png)
 
