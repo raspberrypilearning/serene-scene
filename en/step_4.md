@@ -1,10 +1,10 @@
 ## Set the scene
 
-In Scratch you can also add code to the Stage, rather than a Sprite. In this step you will change the brightness of the back drop and add some soothing sound effects.
+In Scratch you can also add code to the Stage, rather than a sprite. In this step you will change the brightness of the back drop and add some soothing sound effects.
 
 --- task ---
 
-Click on the stage's backdrop to select it.
+Click on the Stage's backdrop. You will not develop a program n the code area for the backdrop.
 
 ![image of backdrop selection](images/backdrop.png)
 
@@ -14,7 +14,7 @@ Click on `Create a new variable`{:class="block3variables"} and call it `light`{:
 
 --- task ---
 
-Just as before, you can use this variable to change the appearance of the stage's backdrop.
+Just as before, you can use this variable to change the appearance of the Stage's backdrop.
 
 Use the `set color effect`{:class="block3looks"} block, but use the drop down menu to change `color`{:class="block3looks"} to `brightness`{:class="block3looks"}.
 
@@ -32,11 +32,11 @@ set [brightness v] effect to (light)
 
 Now when you adjust the light slider, you should see the forest change it's brightness so it looks like a dark evening or a bright summer's day.
 
+You can also add sound effects to the Stage.
+
 --- task ---
 
-You can also add sound effects to the stage. 
-
-Click on the sounds tab for the stage.
+To do this, click on the Stage's sounds tab.
 
 ![image showing sounds tab selected](images/sounds-tab.png)
 
@@ -82,14 +82,6 @@ set volume to (rain) %
 
 --- /task ---
 
-
 You can now click the green flag to run your code and change the volume of the rain with the slider.
 
-
-
-
-
-
-
-
-
+--- save ---
