@@ -49,7 +49,7 @@ title: What you will learn
 title: Additional information for educators
 ---
 
-You can find the completed project [here][rpf.io/p/en/serene-scene-get](http://rpf.io/p/en/serene-scene-get).
+You can find the completed project [here](http://rpf.io/p/en/serene-scene-get){:target="_blank"}.
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/serene-scene/print){:target="_blank"}.
 
