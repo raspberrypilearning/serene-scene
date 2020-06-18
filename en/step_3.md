@@ -4,7 +4,7 @@ You changed the `size`{:class="block3looks"} of the tree by using a `tree`{:clas
 
 --- task ---
 
-Click on the flowers sprite and then create a new variable called `flowers`{:class="block3variables"}. Go back to the previous step if you can't remember how to do this.
+Click on the flowers sprite and then create a new variable called `spring-flowers`{:class="block3variables"}. Go back to the previous step if you can't remember how to do this.
 
 --- /task ---
 
@@ -40,7 +40,7 @@ Variables that store numbers don't always have to be greater than 0. You can use
 
 --- task ---
 
-Right click on the `flowers`{:class="block3variables"} variable on the stage and set it as a slider.
+Right click on the `flowers`{:class="block3variables"} variable on the Stage and set it as a slider.
 
 Now change the slider ranger from `-100`{:class="block3variables"} to `100`{:class="block3variables"}
 
