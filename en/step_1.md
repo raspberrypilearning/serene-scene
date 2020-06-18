@@ -38,9 +38,9 @@ title: What you will need
 title: What you will learn
 ---
 
-- How to create variables
-- How to change variable values using sliders
-- How to use forever loops to check variable values.
+- How to create `variables`{:class="block3variables"}
+- How to change the value of `variables`{:class="block3variables"} using sliders
+- How to use `forever`{:class="block3control"} loops to check variable values.
 
 --- /collapse ---
 
@@ -49,8 +49,8 @@ title: What you will learn
 title: Additional information for educators
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/serene-scene/print){:target="_blank"}.
+You can find the completed project [here][rpf.io/p/en/serene-scene-get](http://rpf.io/p/en/serene-scene-get).
 
-Here is a link to the solution to this project [rpf.io/p/en/serene-scene-get](http://rpf.io/p/en/serene-scene-get).
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/serene-scene/print){:target="_blank"}.
 
 --- /collapse ---
