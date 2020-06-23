@@ -2,9 +2,9 @@
 
 --- task ---
 
-Open the starter Scratch project online at [rpf.io/serene-scene-on](http://rpf.io/serene-scene-on){:target="_blank"}
-
-If you are working offline you will need the Scratch software installed from [rpf.io/scratch-off](https://rpf.io/scratch-off){:target="_blank"}. You can then download the starter project at [rpf.io/p/en/serene-scene-go](https://rpf.io/p/en/serene-scene-go).
+If working **online**, open the [starter project](http://rpf.io/p/en/serene-scene-on){:target="_blank"} in Scratch.
+ 
+If working **offline**, open the project [starter file](http://rpf.io/p/en/serene-scene-get){:target="_blank"} in the Scratch offline editor. If you need to download and install Scratch, you can find it [here](https://scratch.mit.edu/download){:target="_blank"}.
 
 --- /task ---
 

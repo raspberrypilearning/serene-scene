@@ -24,12 +24,11 @@ title: What you will need
 ---
 
 ### Hardware
-
 + A Computer or tablet capable of running Scratch
-
 ### Software
-
-+ Scratch 3 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
++ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
+### Downloads
++ Download the project [starter file](http://rpf.io/p/en/serene-scene-go){:target="_blank"} if working offline
 
 --- /collapse ---
 
@@ -49,7 +48,7 @@ title: What you will learn
 title: Additional information for educators
 ---
 
-You can find the completed project [here](http://rpf.io/p/en/serene-scene-get){:target="_blank"}.
+You can download the completed project [here](http://rpf.io/p/en/serene-scene-get){:target="_blank"}.
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/serene-scene/print){:target="_blank"}.
 
