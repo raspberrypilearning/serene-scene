@@ -32,7 +32,7 @@ Create a new `variable`{:class="block3variables"} in Scratch by clicking on the 
 
 Then click on the **Make a variable** button.
 
-![image showing the make a variable button](images/make-a-variable.png) button.
+![image showing the make a variable button](images/make-a-variable.png)
 
 You can give your `variable`{:class="block3variables"} a name. Call this variable `tree`{:class="block3variables"}.
 
