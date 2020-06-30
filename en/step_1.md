@@ -41,7 +41,7 @@ title: What you will learn
 
 - How to create `variables`{:class="block3variables"}
 - How to change the value of `variables`{:class="block3variables"} using sliders
-- How to use `forever`{:class="block3control"} loops to check variable values.
+- How to use `forever`{:class="block3control"} loops to check variable values
 
 --- /collapse ---
 
