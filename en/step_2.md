@@ -60,7 +60,7 @@ You will also see that the `tree`{:class="block3variables"} variable is visible 
 
 --- task ---
 
-There are many ways to control the `value`{:class="block3variables"} of a `variable`{:class="block3variables"}, but in this project you are going to use `sliders`{:class="block3variables"}.
+There are many ways to control the **value** of a `variable`{:class="block3variables"}, but in this project you are going to use `sliders`{:class="block3variables"}.
 
 On the stage, right click on the variable and you should see a menu appear.
 
