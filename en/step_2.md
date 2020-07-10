@@ -144,8 +144,6 @@ Now move the slider to watch your tree grow from 100% to 300%.
 
 --- /task ---
 
---- save ---
-
 
 
 
