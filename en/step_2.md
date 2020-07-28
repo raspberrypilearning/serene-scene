@@ -2,11 +2,9 @@
 
 --- task ---
 
-Open the starter Scratch project online at [rpf.io/serene-scene-on](http://rpf.io/serene-scene-on){:target="_blank"}
-
-If you are working offline you will need the Scratch software installed from [rpf.io/scratch-off](https://rpf.io/scratch-off){:target="_blank"}.
-
-You can then download the starter project at [rpf.io/p/en/serene-scene-go](https://rpf.io/p/en/serene-scene-go).
+If working **online**, open the [starter project](http://rpf.io/p/en/serene-scene-on){:target="_blank"} in Scratch.
+ 
+If working **offline**, open the project [starter file](http://rpf.io/p/en/serene-scene-get){:target="_blank"} in the Scratch offline editor. If you need to download and install Scratch, you can find it [here](https://scratch.mit.edu/download){:target="_blank"}.
 
 --- /task ---
 
@@ -14,7 +12,7 @@ You should see a forest scene with a tree, flowers and a grasshopper.
 
 ![image of stage for the starter project containing a tree, some flowers, a grasshopper and a forest background](images/stage_1.png)
 
-To begin you are going to to make the tree change size.
+To begin, you are going to to make the tree change its size.
 
 --- task ---
 
@@ -24,7 +22,7 @@ Select the <span style="font-family:Helevetica Neue, Helvetica, sans-serifserif;
 
 --- /task ---
 
-A `variable`{:class="block3variables"} is a way of storing a number or some text. 
+A `variable`{:class="block3variables"} is a way of storing numbers and/or text. 
 
 --- task ---
 
@@ -32,11 +30,11 @@ Create a new `variable`{:class="block3variables"} in Scratch by clicking on the 
 
 ![image showing variable menu](images/variable.png) 
 
-Then click on the **Make a variable button**.
+Then click on the **Make a variable** button.
 
-![image showing the make a variable button](images/make-a-variable.png) button.
+![image showing the make a variable button](images/make-a-variable.png)
 
-You can give your `variable`{:class="block3variables"} a name. Call this one `tree`{:class="block3variables"}.
+You can give your `variable`{:class="block3variables"} a name. Call this variable `tree`{:class="block3variables"}.
 
 ![image showing dialogue box for creating and naming a variable, with the name field filled out with tree](images/name-variable.png)
 
@@ -62,7 +60,7 @@ You will also see that the `tree`{:class="block3variables"} variable is visible 
 
 --- task ---
 
-There are many ways to control the `value`{:class="block3variables"} of a `variable`{:class="block3variables"}, but in this project you are going to use `sliders`{:class="block3variables"}.
+There are many ways to control the **value** of a `variable`{:class="block3variables"}, but in this project you are going to use `sliders`{:class="block3variables"}.
 
 On the stage, right click on the variable and you should see a menu appear.
 
@@ -146,7 +144,7 @@ Now move the slider to watch your tree grow from 100% to 300%.
 
 --- /task ---
 
-
+--- save ---
 
 
 
