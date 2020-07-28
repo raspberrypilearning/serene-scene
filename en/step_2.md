@@ -16,7 +16,7 @@ To begin, you are going to to make the tree change its size.
 
 --- task ---
 
-Select the <span style="font-family:Helevetica Neue, Helvetica, sans-serifserif; font-size:12 px;">Tree</span> sprite below the stage.
+Select the <span style="font-family:'Helevetica Neue', Helvetica, Arial sans-serif; font-size:12 px;">Tree</span> sprite below the stage.
 
 ![sprites shown with the tree selected](images/sprites.png)
 
