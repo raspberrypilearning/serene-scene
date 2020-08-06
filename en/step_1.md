@@ -7,14 +7,14 @@ You are going to **develop** a serene (meaning peaceful) scene of a wood, that y
 Click the green flag and then move the sliders to change the scene.
 
 <div>
-<iframe src="https://scratch.mit.edu/projects/397270866/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://scratch.mit.edu/projects/401955374/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
 --- /no-print ---
 
 --- print-only ---
 
-![Complete project](images/banner.png)
+![Complete project](images/showcase.png)
 
 --- /print-only ---
 
