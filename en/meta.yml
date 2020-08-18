@@ -1,6 +1,6 @@
 title: Serene scene
 hero_image: images/serene-banner.png
-description: Create a peaceful forest scene for you to look at, listen to and relax
+description: Create a peaceful forest scene for you to look at, listen to, and relax with
 version: 4
 listed: false
 copyedit: false
@@ -11,7 +11,7 @@ steps:
   - title: Colour the flowers
   - title: Set the scene
   - title: Add some fauna
-  - title: "Challenge: Add a dragonfly"
+  - title: "Challenge: add a dragonfly"
     challenge: true
   - title: Share your project
   - title: "What next?"
