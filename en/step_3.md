@@ -1,6 +1,6 @@
 ## Colour the flowers
 
-You used a `tree`{:class="block3variables"} variable to change the `size`{:class="block3looks"} of the tree. You can now use a variable to change the colour of the flowers.
+You used a `tree`{:class="block3variables"} variable to change the `size`{:class="block3looks"} of the tree. Now, you can use a variable to change the colour of the flowers.
 
 --- task ---
 
@@ -10,7 +10,7 @@ Click on the **flowers** sprite, then create a new variable called `spring-flowe
 
 --- task ---
 
-You can change the `color effect`{:class="block3looks"} of the flowers, in the same way that you changed the `size`{:class="block3looks"} of the tree.
+Change the `color effect`{:class="block3looks"} of the flowers, in the same way that you changed the `size`{:class="block3looks"} of the tree.
 
 ![image of flowers sprite](images/flowers-sprite.png)
 
