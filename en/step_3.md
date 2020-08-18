@@ -1,16 +1,16 @@
 ## Colour the flowers
 
-You changed the `size`{:class="block3looks"} of the tree by using a `tree`{:class="block3variables"} variable. You can now use a variable to change the colour of the flowers.
+You used a `tree`{:class="block3variables"} variable to change the `size`{:class="block3looks"} of the tree. You can now use a variable to change the colour of the flowers.
 
 --- task ---
 
-Click on the flowers sprite and then create a new variable called `spring-flowers`{:class="block3variables"}. Go back to the previous step if you can't remember how to do this.
+Click on the **flowers** sprite, then create a new variable called `spring-flowers`. If you can't remember how to do this, go back to the previous step.
 
 --- /task ---
 
 --- task ---
 
-You can change the `color effect`{:class="block3looks"} of the flowers, in the same way you changed the `size`{:class="block3looks"} of the tree.
+You can change the `color effect`{:class="block3looks"} of the flowers, in the same way that you changed the `size`{:class="block3looks"} of the tree.
 
 ![image of flowers sprite](images/flowers-sprite.png)
 
@@ -24,7 +24,7 @@ set [color v] effect to [0]
 
 --- task ---
 
-Then add your `flowers`{:class="block3variables"} variable.
+Then, add your `flowers`{:class="block3variables"} variable.
 
 ![image of flowers sprite](images/flowers-sprite.png)
 
@@ -40,9 +40,9 @@ Variables that store numbers don't always have to be greater than 0. You can use
 
 --- task ---
 
-Right click on the `flowers`{:class="block3variables"} variable on the Stage and set it as a slider.
+On the Stage, right-click on the `flowers`{:class="block3variables"} variable and set it to **slider**.
 
-Now change the slider ranger from `-100`{:class="block3variables"} to `100`{:class="block3variables"}
+Now, change the slider range to between `-100` and `100`.
 
 ![image showing the dialogue box for adjusting the range of the flowers variable with -100 as minimum and 100 as maximum](images/flowers-range.png)
 
@@ -50,7 +50,7 @@ Now change the slider ranger from `-100`{:class="block3variables"} to `100`{:cla
 
 --- task ---
 
-Click the green flag and then adjust your `flowers`{:class="block3variables"} slider to see the flowers change colour.
+Click on the green flag, then adjust your `flowers`{:class="block3variables"} slider to see the flowers change colour.
 
 --- /task ---
 
