@@ -1,10 +1,10 @@
 ## Add some fauna
 
-Fauna means animals. In this step you'll add a moving grasshopper to your serene scene.
+**Fauna** means **animals**. In this step, you will add a moving grasshopper to your serene scene.
 
 --- task ---
 
-Set up the Grasshopper sprite so that it moves from left to right and appears behind the tree and flowers.
+Set up the **Grasshopper** sprite so that it moves from left to right and appears behind the tree and flowers.
 
 ![image of grasshopper sprite](images/grasshopper-sprite.png)
 
@@ -18,7 +18,7 @@ set rotation style [left-right v]
 
 --- task ---
 
-Now make your grasshopper move back and forth across the screen.
+Now, make your **Grasshopper** sprite move back and forth across the screen.
 
 ![image of grasshopper sprite](images/grasshopper-sprite.png)
 
@@ -33,17 +33,17 @@ if on edge, bounce
 ```
 --- /task ---
 
-The Grasshopper sprite is moving a little quickly at the moment, but you can slow it down by using a `variable`{:class="block3variables"} and a `wait`{:class="block3control"} block.
+The **Grasshopper** sprite is moving a little quickly at the moment, but you can use a `variable`{:class="block3variables"} and a `wait`{:class="block3control"} block to slow it down.
 
 --- task ---
 
-Create a new variable and switch it to a slider. You can call the variable `grasshopper`{:class="block3variables"}.
+Create a new variable and switch it to a slider. You can call the variable `grasshopper`.
 
 --- /task ---
 
 --- task ---
 
-Now you can use a `wait`{:class="block3control"} block to slow the grasshopper down.
+Now, you can use a `wait`{:class="block3control"} block to slow the grasshopper down.
 
 ![image of grasshopper sprite](images/grasshopper-sprite.png)
 
@@ -60,11 +60,11 @@ if on edge, bounce
 
 --- /task ---
 
-If you click the green flag and move the slider, you'll notice that the grasshopper moves very slowly. This can be fixed by multiplying the `grasshopper`{:class="block3variables"} variable by a number smaller that 1.
+If you click on the green flag and move the slider, you'll notice that the grasshopper moves very slowly. To fix this, you can multiply the `grasshopper`{:class="block3variables"} variable by a number smaller that 1.
 
 --- task ---
 
-In the `Operators`{:class="block3operators"} menu, find the `/`{:class="block3operators"} block.
+Go to the `Operators`{:class="block3operators"} blocks menu and find the `/`{:class="block3operators"} block.
 
 ```blocks3
 [] / []
@@ -74,7 +74,7 @@ In the `Operators`{:class="block3operators"} menu, find the `/`{:class="block3op
 
 --- task ---
 
-Now drag this into your script to divide the `grasshopper`{:class="block3variables"} by 100.
+Now, drag this into your script to divide the `grasshopper`{:class="block3variables"} by `100`.
 
 ![image of grasshopper sprite](images/grasshopper-sprite.png)
 
@@ -91,7 +91,7 @@ if on edge, bounce
 
 --- /task ---
 
-When you adjust the slider, the grasshopper will move at a different speed. You might also like to adjust the slider range down to between 0 and 20
+When you adjust the slider, the grasshopper will move at a different speed. You might also like to adjust the **slider range** down to between `0` and `20`.
 
 
 
