@@ -37,7 +37,7 @@ The **Grasshopper** sprite is moving a little quickly at the moment, but you can
 
 --- task ---
 
-Create a new variable and switch it to a slider. You can call the variable `grasshopper`.
+Create a new `variable`{:class="block3variables"} called `grasshopper` and switch it to a **slider**.
 
 --- /task ---
 
@@ -60,7 +60,7 @@ if on edge, bounce
 
 --- /task ---
 
-If you click on the green flag and move the slider, you'll notice that the grasshopper moves very slowly. To fix this, you can multiply the `grasshopper`{:class="block3variables"} variable by a number smaller that 1.
+If you click on the green flag and move the slider, you will notice that the grasshopper moves very slowly. To fix this, you can multiply the `grasshopper`{:class="block3variables"} variable by a number smaller than 1 (in other words, a number that is smaller than 100/100).
 
 --- task ---
 
@@ -74,7 +74,7 @@ Go to the `Operators`{:class="block3operators"} blocks menu and find the `/`{:cl
 
 --- task ---
 
-Now, drag this into your script to divide the `grasshopper`{:class="block3variables"} by `100`.
+Now, drag this into your script to divide the `grasshopper`{:class="block3variables"} variable by `100`.
 
 ![image of grasshopper sprite](images/grasshopper-sprite.png)
 
