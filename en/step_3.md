@@ -4,7 +4,7 @@ You used a `tree`{:class="block3variables"} variable to change the `size`{:class
 
 --- task ---
 
-Click on the **flowers** sprite, then create a new variable called `spring-flowers`. If you can't remember how to do this, go back to the previous step.
+Click on the **flowers** sprite, then create a new variable called `flowers`. If you can't remember how to do this, go back to the previous step for a reminder.
 
 --- /task ---
 
@@ -24,7 +24,7 @@ set [color v] effect to [0]
 
 --- task ---
 
-Then, add your `flowers`{:class="block3variables"} variable.
+Then, add in your `flowers`{:class="block3variables"} variable.
 
 ![image of flowers sprite](images/flowers-sprite.png)
 
@@ -36,7 +36,7 @@ forever
 
 --- /task ---
 
-Variables that store numbers don't always have to be greater than 0. You can use negative numbers as well.
+Variables that store numbers do not always have to be greater than 0. You can use negative numbers as well.
 
 --- task ---
 
