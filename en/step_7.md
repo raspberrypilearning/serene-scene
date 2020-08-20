@@ -4,7 +4,7 @@ If you do not have a Scratch account already, set up an account so that you can 
 
 [[[create-scratch-account]]]
 
-If you have an account already, here are some details on how you can share your completed Scratch project with your friends and family. To do this, follow the instructions below:
+If you have an account already, you can share your completed Scratch project with your friends and family. To do this, follow the instructions below:
 
 [[[share-scratch]]]
 
