@@ -16,13 +16,13 @@ First, you will make the tree change its size.
 
 --- task ---
 
-Select the **<span style="font-family:'Helevetica Neue', Helvetica, Arial sans-serif; font-size:12 px;">Tree1</span>** sprite below the Stage.
+Select the **Tree1** sprite from the Sprite list below the Stage.
 
 ![sprites shown with the tree selected](images/sprites.png)
 
 --- /task ---
 
-A `variable`{:class="block3variables"} is a way of storing numbers and/or text. 
+A **variable** is a way of storing numbers and/or text. 
 
 --- task ---
 
@@ -60,9 +60,9 @@ You will also see that the `tree`{:class="block3variables"} variable is visible 
 
 --- task ---
 
-There are many ways to control the **value** of a `variable`{:class="block3variables"}, but in this project, you will use `sliders`{:class="block3variables"}.
+There are many ways to control the **value** of a `variable`{:class="block3variables"}, but in this project, you will use **sliders**.
 
-On the Stage, right-click on the variable, and a menu will appear.
+On the Stage, right-click on the `tree`{:class="block3variables"} variable, and a menu will appear.
 
 ![image showing context menu for the variable on the stage](images/variable-menu.png)
 
@@ -74,7 +74,7 @@ Select **slider** from the menu.
 
 --- task ---
 
-Move the slider forwards and backwards, and you will see that the value of the `variable`{:class="block3variables"} changes between `0`{:class="block3variables"} and `100`{:class="block3variables"}.
+Move the slider forwards and backwards, and you will see that the value of the `tree`{:class="block3variables"} variable changes between `0`{:class="block3variables"} and `100`{:class="block3variables"}.
 
 --- /task ---
 
@@ -82,7 +82,7 @@ Now, you will use the value of the `tree`{:class="block3variables"} variable to 
 
 --- task ---
 
-First, use a `when green flag clicked`{:class="block3events"} block with a `forever`{:class="block3control"} loop. Add in a `set size to`{:class="block3looks"} block to the loop.
+First, use a `when green flag clicked`{:class="block3events"} block with a `forever`{:class="block3control"} loop. Add a `set size to`{:class="block3looks"} block into the loop.
 
 This means that once the flag is clicked, the `set size to`{:class="block3looks"} block in the `forever`{:class="block3control"} loop will keep the tree size at 100%.
 
