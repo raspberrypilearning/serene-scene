@@ -1,14 +1,14 @@
 ## Set the scene
 
-In Scratch, you can also add code to the **Stage**, rather than a sprite. In this step, you will change the brightness of the backdrop and add some soothing sound effects.
+In Scratch, you can also add code to the **Stage**, rather than to a sprite. In this step, you will change the brightness of the backdrop and add some soothing sound effects.
 
 --- task ---
 
-Click on the Stage's backdrop. You will not develop a program n the code area for the backdrop.
+Go to the Stage pane and click on the backdrop. You will now develop a program for the backdrop in the Code area.
 
 ![image of backdrop selection](images/backdrop.png)
 
-Click on `Create a new variable`{:class="block3variables"} and call it `light`. Change the variable to a **slider** with a range between `-40` and `40`.
+In the `Variables`{:class="block3variables"} blocks menu, click on **Make a Variable** and call the new variable `light`. Change the variable to a **slider** with a range between `-40` and `40`.
 
 --- /task ---
 
@@ -44,7 +44,7 @@ To do this, click on the **Sounds** tab.
 
 --- task ---
 
-Click on the icon in the bottom left-hand corner of the screen to add a sound.
+Click on the **Choose a Sound** icon in the bottom left-hand corner of the screen to add a sound.
 
 ![image showing add sound icon](images/add-sound.png)
 
@@ -66,7 +66,7 @@ Create a `rain`{:class="block3variables"} variable and make it appear as a **sli
 
 --- task ---
 
-Add code to play the `Rain`{:class="block3sound"} sound forever, and change the volume of the sound to the value of the variable.
+Add code to play the `Rain`{:class="block3sound"} sound `forever`{:class="block3control"}, and set the `volume`{:class="block3sound"} of the sound to the value of the `rain`{:class="block3variables"} variable.
 
 ![image of backdrop](images/backdrop-sprite.png)
 
