@@ -4,7 +4,7 @@ You used a `tree`{:class="block3variables"} variable to change the `size`{:class
 
 --- task ---
 
-Click on the **flowers** sprite, then create a new variable called `flowers`. If you can't remember how to do this, go back to the previous step for a reminder.
+Click on the **flowers** sprite, then create a new `variable`{:class="block3variables"} called `flowers`. If you can't remember how to do this, go back to the previous step for a reminder.
 
 --- /task ---
 
