@@ -66,7 +66,7 @@ Create a `rain`{:class="block3variables"} variable and make it appear as a **sli
 
 --- task ---
 
-Add code to play the `Rain`{:class="block3sound"} sound `forever`{:class="block3control"}, and set the `volume`{:class="block3sound"} of the sound to the value of the `rain`{:class="block3variables"} variable.
+Add code to `play`{:class="block3sound"} the `Rain`{:class="block3sound"} sound `forever`{:class="block3control"}, and `set`{:class="block3sound"} the `volume`{:class="block3sound"} of the sound to the value of the `rain`{:class="block3variables"} variable.
 
 ![image of backdrop](images/backdrop-sprite.png)
 
