@@ -4,7 +4,7 @@ In Scratch, you can also add code to the **Stage**, rather than to a sprite. In 
 
 --- task ---
 
-Go to the Stage pane and click on the **backdrop**. You will now develop a program for the backdrop in the Code area.
+Go to the Stage pane and click on the **backdrop**. You will now develop a program for the **backdrop** in the Code area.
 
 ![image of backdrop selection](images/backdrop.png)
 
