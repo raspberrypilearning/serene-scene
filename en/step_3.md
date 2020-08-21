@@ -36,7 +36,7 @@ forever
 
 --- /task ---
 
-Variables that store numbers do not always have to be greater than 0. You can use negative numbers as well.
+Variables that store numbers do not always have to have values that are greater than 0. You can use negative numbers as well.
 
 --- task ---
 
