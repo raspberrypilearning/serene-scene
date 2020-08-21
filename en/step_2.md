@@ -16,7 +16,7 @@ First, you will make the tree change its size.
 
 --- task ---
 
-Select the **Tree1** sprite from the Sprite list below the Stage.
+Select the **Tree1** sprite in the Sprite list below the Stage.
 
 ![sprites shown with the tree selected](images/sprites.png)
 
@@ -66,7 +66,7 @@ On the Stage, right-click on the `tree`{:class="block3variables"} variable, and 
 
 ![image showing context menu for the variable on the stage](images/variable-menu.png)
 
-Select **slider** from the menu.
+Select **slider** in the menu.
 
 ![image showing tree variable with slider](images/tree-slider.png)
 
@@ -84,7 +84,7 @@ Now, you will use the value of the `tree`{:class="block3variables"} variable to 
 
 First, use a `when green flag clicked`{:class="block3events"} block with a `forever`{:class="block3control"} loop. Add a `set size to`{:class="block3looks"} block into the loop.
 
-This means that once the flag is clicked, the `set size to`{:class="block3looks"} block in the `forever`{:class="block3control"} loop will keep the tree size at 100%.
+This means that once the flag is clicked, the `set size to`{:class="block3looks"} block in the `forever`{:class="block3control"} loop will keep the tree size at `100` percent.
 
 ![tree sprite image](images/tree-sprite.png)
 
