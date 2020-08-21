@@ -74,7 +74,7 @@ Select **slider** from the menu.
 
 --- task ---
 
-Move the slider forwards and backwards, and you will see that the value of the `tree`{:class="block3variables"} variable changes between `0`{:class="block3variables"} and `100`{:class="block3variables"}.
+Move the slider forwards and backwards, and you will see that the value of the `tree`{:class="block3variables"} variable changes between `0`{:class="block3variables"} and `100`{:class="block3variables"} (percent).
 
 --- /task ---
 
