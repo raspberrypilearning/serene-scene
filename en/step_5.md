@@ -18,7 +18,7 @@ set rotation style [left-right v]
 
 --- task ---
 
-Now, make your **Grasshopper** sprite move back and forth across the screen.
+Now, make your **Grasshopper** sprite move back and forth across the Stage.
 
 ![image of grasshopper sprite](images/grasshopper-sprite.png)
 
