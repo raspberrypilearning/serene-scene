@@ -42,7 +42,7 @@ Variables that store numbers do not always have to have values that are greater 
 
 On the Stage, right-click on the `flowers`{:class="block3variables"} variable and set it to **slider**.
 
-Now, change the slider range to between `-100` and `100`.
+Now, change the **slider range** to between `-100` and `100`.
 
 ![image showing the dialogue box for adjusting the range of the flowers variable with -100 as minimum and 100 as maximum](images/flowers-range.png)
 
