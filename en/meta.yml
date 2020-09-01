@@ -2,9 +2,9 @@ title: Serene scene
 hero_image: images/serene-banner.png
 description: Create a peaceful forest scene for you to look at, listen to, and relax with
 version: 4
-listed: false
-copyedit: false
-last_tested: "2020-05-21"
+listed: true
+copyedit: true
+last_tested: "2020-09-01"
 steps:
   - title: Introduction
   - title: Grow a tree
