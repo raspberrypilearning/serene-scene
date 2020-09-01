@@ -1,5 +1,10 @@
 ## What next?
 
-If you are following the Look After Yourself pathway, then try out the next project, [Fruit salad](https://projects.raspberrypi.org/admin/projects/fruit-salad).
+In this project, you have:
+- Created `variables`{:class="block3variables"}
+- Used sliders to change the value of `variables`{:class="block3variables"}
+- Used `forever`{:class="block3control"} loops to check variable values
 
-If you want to explore Scratch some more, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch).
+If you are following the [Look After Yourself](https://projects.raspberrypi.org/en/pathways/look-after-yourself) projects, then try out the next project, [Fruit salad](https://projects.raspberrypi.org/admin/projects/fruit-salad).
+
+Did you enjoy the project? Have you spotted a mistake? Please click the **Send feedback** button below and let us know!
