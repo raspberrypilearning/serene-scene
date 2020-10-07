@@ -44,7 +44,7 @@ To do this, click on the **Sounds** tab.
 
 --- task ---
 
-Click on the **Choose a Sound** icon in the bottom left-hand corner of the screen to add a sound.
+Click on the **Choose a Sound** icon in the bottom left-hand corner of the screen to select a sound.
 
 ![image showing add sound icon](images/add-sound.png)
 
@@ -52,7 +52,7 @@ Click on the **Choose a Sound** icon in the bottom left-hand corner of the scree
 
 --- task ---
 
-You can now search for sounds. In this project, we will use the **Rain** sound, but you can choose anything you like.
+You can now search for sounds. In this project, we will use the **Rain** sound, but you can choose anything you like. Click on the **Rain** icon to select the sound.
 
 ![image showing search and selection of rain sound](images/rain.png)
 
