@@ -1,4 +1,4 @@
-## Share your project
+## Share
 
 If you do not have a Scratch account already, set up an account so that you can save your projects online and share them with others. To do this, follow the instructions below: 
 
