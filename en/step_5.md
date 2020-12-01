@@ -1,4 +1,4 @@
-## Add some fauna
+## Make the fauna move
 
 **Fauna** means **animals**. In this step, you will add a moving grasshopper to your serene scene.
 
