@@ -72,7 +72,7 @@ On the Stage, right-click on the `grasshopper`{:class="block3variables"} variabl
 
 --- task ---
 
-Click on the green flag, then adjust your grasshopper slider to see the grasshoper's speed change.
+Click on the green flag, then adjust your `grasshopper`{:class="block3variables"} slider to see the **Grasshopper** sprite change speed.
 
 --- /task ---
 
