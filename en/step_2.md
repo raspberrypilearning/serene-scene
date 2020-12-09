@@ -62,7 +62,7 @@ You will also see that the `tree`{:class="block3variables"} variable is visible 
 
 There are many ways to control the **value** of a `variable`{:class="block3variables"}, but in this project, you will use **sliders**.
 
-On the Stage, right-click on the `tree`{:class="block3variables"} variable, and a menu will appear.
+On the Stage, right-click on the `tree`{:class="block3variables"} variable, and a menu will appear. (If you are using a touchscreen you can tap and hold to make the menu appear). 
 
 ![image showing context menu for the variable on the stage](images/variable-menu.png)
 
