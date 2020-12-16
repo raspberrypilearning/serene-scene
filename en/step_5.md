@@ -64,7 +64,7 @@ If you click on the green flag and move the slider, you will notice that the gra
 
 --- task ---
 
-On the Stage, right-click on the `grasshopper`{:class="block3variables"} variable and change the slider range to between `0.01` and `1`.
+On the Stage, right-click on the `grasshopper`{:class="block3variables"} variable and change the slider range to between `0.0` and `1.0`.
 
 ![image of grasshopper range](images/grasshopper-range.png)
 
