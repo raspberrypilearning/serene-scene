@@ -42,19 +42,9 @@ You can give your `variable`{:class="block3variables"} a name. Call this variabl
 
 You should now see five new blocks that you can use.
 
-```blocks3
-(tree)
+![image showing the blocks for variables](images/variable-blocks.png)
 
-set [tree v] to [0]
-
-change [tree v] by [1]
-
-show variable [tree v]
-
-hide variable [tree v]
-```
-
-You will also see that the `tree`{:class="block3variables"} variable is visible on the Stage.
+You will also see that the `tree`{:class="block3variables"} block has a tick, this makes the variable is visible on the Stage.
 
 ![image showing the stage with the tree variable visible](images/stage_2.png)
 
