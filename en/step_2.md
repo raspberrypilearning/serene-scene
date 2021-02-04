@@ -44,7 +44,7 @@ You should now see five new blocks that you can use.
 
 ![image showing the blocks for variables](images/variable-blocks.png)
 
-You will also see that the `tree`{:class="block3variables"} block has a tick next to it. This makes the variable visible on the Stage.
+You will also see that the `tree`{:class="block3variables"} block has a check mark next to it. This makes the variable visible on the Stage.
 
 ![image showing the stage with the tree variable visible](images/stage_2.png)
 
