@@ -1,4 +1,4 @@
-## Add some fauna
+## Make the fauna move
 
 **Fauna** means **animals**. In this step, you will add a moving grasshopper to your serene scene.
 
@@ -60,38 +60,21 @@ if on edge, bounce
 
 --- /task ---
 
-If you click on the green flag and move the slider, you will notice that the grasshopper moves very slowly. To fix this, you can multiply the `grasshopper`{:class="block3variables"} variable by a number smaller than 1 (in other words, a number that is smaller than 100/100).
+If you click on the green flag and move the slider, you will notice that the grasshopper moves very slowly. To fix this, you need to change the range of the `grasshopper`{:class="block3variables"} variable to a much smaller range of numbers. 
 
 --- task ---
 
-Go to the `Operators`{:class="block3operators"} blocks menu and find the `/`{:class="block3operators"} block.
+On the Stage, right-click on the `grasshopper`{:class="block3variables"} variable and change the slider range to between `0.0` and `1.0`.
 
-```blocks3
-[] / []
-```
+![image of grasshopper range](images/grasshopper-range.png)
 
 --- /task ---
 
 --- task ---
 
-Now, drag this into your script to divide the `grasshopper`{:class="block3variables"} variable by `100`.
-
-![image of grasshopper sprite](images/grasshopper-sprite.png)
-
-```blocks3
-when flag clicked
-go to [back v] layer
-set rotation style [left-right v]
-forever
-move [5] steps
-next costume
-if on edge, bounce
-+ wait ((grasshopper) / [100]) seconds
-```
+Click on the green flag, then adjust your `grasshopper`{:class="block3variables"} slider to see the **Grasshopper** sprite change speed.
 
 --- /task ---
-
-When you adjust the slider, the grasshopper will move at a different speed. You might also like to adjust the **slider range** down to between `0` and `20`.
 
 
 
