@@ -30,7 +30,7 @@ title: What you will need
 + Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
 
 ### Downloads
-+  If you are working offline, download the [project starter file](http://rpf.io/p/en/serene-scene-go){:target="_blank"}
++  If you are working offline, download the [project starter file](https://rpf.io/p/en/serene-scene-go){:target="_blank"}
 
 --- /collapse ---
 
@@ -50,7 +50,7 @@ title: What you will learn
 title: Additional information for educators
 ---
 
-You can [download the completed project here](http://rpf.io/p/en/serene-scene-get){:target="_blank"}.
+You can [download the completed project here](https://rpf.io/p/en/serene-scene-get){:target="_blank"}.
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/serene-scene/print){:target="_blank"}.
 
