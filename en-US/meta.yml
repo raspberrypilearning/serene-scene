@@ -5,10 +5,11 @@ description: Create a peaceful forest scene for you to look at, listen to, and r
 version: 4
 listed: true
 copyedit: true
-last_tested: "2020-09-01"
+last_tested: '2020-09-01'
 steps:
   - 
     title: Introduction
+    completion: engaged
   - 
     title: Grow a tree
   - 
@@ -17,9 +18,10 @@ steps:
     title: Set the scene
   - 
     title: Make the fauna move
+    completion: internal
   - 
     title: Add more
   - 
     title: Share
   - 
-    title: "What next?"
+    title: What next?
