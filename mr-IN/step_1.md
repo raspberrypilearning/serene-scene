@@ -1,10 +1,10 @@
-## Introduction
+## परिचय
 
-You will develop a serene (meaning peaceful) scene of a wood, which you can look at, listen to, and relax with.
+तुम्ही लाकडाचे एक प्रसन्न (म्हणजे शांततापूर्ण) दृश्य विकसित कराल, जे तुम्ही पाहू शकता, ऐकू शकता आणि त्यासोबत रीलॅक्स राहू शकता.
 
 --- no-print ---
 
-Click on the green flag, then move the sliders to change the scene.
+हिरव्या झेंड्यावर क्लिक करा, त्यानंतर दृश्य बघण्यासाठी स्लाइडर हलवा.
 
 <div>
 <iframe src="https://scratch.mit.edu/projects/401955374/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
@@ -14,44 +14,44 @@ Click on the green flag, then move the sliders to change the scene.
 
 --- print-only ---
 
-![Complete project](images/showcase.png)
+![प्रोजेक्ट पूर्ण करा](images/showcase.png)
 
 --- /print-only ---
 
 --- collapse ---
 ---
-title: What you will need
+title: तुम्हाला काय लागणार
 ---
 
-### Hardware
-+ A computer or tablet capable of running Scratch
+### हार्डवेअर
++ Scracth चालवण्यास सक्षम असलेले संगणक किंवा टॅबलेट
 
-### Software
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
+### सॉफ्टवेअर
++ Scratch 3 (एकतर [ऑनलाईन](https://scratch.mit.edu/){:target="_blank"} किंवा [ऑफलाईन](https://scratch.mit.edu/download){:target="_blank"})
 
-### Downloads
-+  If you are working offline, download the [project starter file](https://rpf.io/p/en/serene-scene-go){:target="_blank"}
+### डाउनलोड्स
++  तुम्ही ऑफलाइन काम करत असल्यास, [प्रोजेक्ट स्टार्टर फाइल](https://rpf.io/p/en/serene-scene-go){:target="_blank"} डाऊनलोड करा
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: तुम्ही काय शिकणार
 ---
 
-- How to create `variables`{:class="block3variables"}
-- How to use sliders to change the value of `variables`{:class="block3variables"}
-- How to use `forever`{:class="block3control"} loops to check variable values
+- `व्हेरिएबल्स`{:class="block3variables"} कसे तयार करावे
+- `variables`{:class="block3variables"} ची व्हॅल्यू बदलण्यासाठी स्लाइडर कसे वापरायचे
+- व्हेरिएबल व्हॅल्यू तपासण्यासाठी `forever`{:class="block3control"} लूप कसे वापरावे
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title:: शिक्षकांसाठी अतिरिक्त माहिती
 ---
 
-You can [download the completed project here](https://rpf.io/p/en/serene-scene-get){:target="_blank"}.
+आपण [ येथे पूर्ण केलेला प्रोजेक्ट शोधू शकता](https://rpf.io/p/en/serene-scene-get){:target="_blank"}.
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/serene-scene/print){:target="_blank"}.
+तुम्हाला हा प्रोजेक्ट प्रिंट करणे आवश्यक असल्यास, कृपया [छपाईयंत्र अनुकूल आवृत्ती](https://projects.raspberrypi.org/en/projects/serene-scene/print){: target = "_ blank"} वापरा.
 
 --- /collapse ---
