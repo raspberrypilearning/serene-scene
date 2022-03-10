@@ -1,18 +1,18 @@
-## Colour the flowers
+## फुलांना रंग द्या
 
-You used a `tree`{:class="block3variables"} variable to change the `size`{:class="block3looks"} of the tree. Now, you can use a variable to change the colour of the flowers.
+तुम्ही झाडाचा `size`{:class="block3looks"} बदलण्यासाठी `tree`{:class="block3variables"} व्हेरिएबल वापरलात. आता, तुम्ही फुलांचा रंग बदलण्यासाठी व्हेरिएबल वापरू शकता.
 
 --- task ---
 
-Click on the **flowers** sprite, then create a new `variable`{:class="block3variables"} called `flowers`. If you can't remember how to do this, go back to the previous step for a reminder.
+**flowers** स्प्राइट वर क्लिक करा, नंतर `flowers` नावाचे `variable`{:class="block3variables"} तयार करा. हे कसे करायचे ते तुम्हाला आठवत नसल्यास, आठवण्यासाठी मागील टप्प्यावर परत जा.
 
 --- /task ---
 
 --- task ---
 
-Change the `color effect`{:class="block3looks"} of the flowers, in the same way that you changed the `size`{:class="block3looks"} of the tree.
+तुम्ही झाडाचा `size`{:class="block3looks"} बदलला त्याचप्रकारे फुलांचा `color effect`{:class="block3looks"} बदला.
 
-![image of flowers sprite](images/flowers-sprite.png)
+![flowers स्प्राईटची इमेज](images/flowers-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -24,9 +24,9 @@ set [color v] effect to [0]
 
 --- task ---
 
-Then, add in your `flowers`{:class="block3variables"} variable.
+त्यानंतर तुमच्या `flowers`{:class="block3variables"} मध्ये जोडा.
 
-![image of flowers sprite](images/flowers-sprite.png)
+![flowers स्प्राईटची इमेज](images/flowers-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -36,21 +36,21 @@ forever
 
 --- /task ---
 
-Variables that store numbers do not always have to have values that are greater than 0. You can use negative numbers as well.
+संख्या स्टोअर केलेल्या व्हेरिएबल्सला नेहमी 0 पेक्षा मोठ्या व्हॅल्यू असणे आवश्यक नसते. तुम्ही ऋण संख्या देखील वापरू शकता.
 
 --- task ---
 
-On the Stage, right-click on the `flowers`{:class="block3variables"} variable and set it to **slider**.
+Stage वर, `flowers`{:class="block3variables"} व्हेरिएबलवर राईट-क्लिक करा आणि ते **slider** ला सेट करा.
 
-Now, change the **slider range** to between `-100` and `100`.
+आता, **slider range** ही `-100` आणि `100` दरम्यान बदला.
 
-![image showing the dialogue box for adjusting the range of the flowers variable with -100 as minimum and 100 as maximum](images/flowers-range.png)
+![फुल व्हेरिएबलची रेंज किमान 100 आणि कमाल 100 ऍडजस्ट करण्यासाठी डायलॉग बॉक्स दाखवणारी इमेज](images/flowers-range.png)
 
 --- /task ---
 
 --- task ---
 
-Click on the green flag, then adjust your `flowers`{:class="block3variables"} slider to see the flowers change colour.
+हिरव्या झेंड्यावर क्लिक करा, त्यानंतर फुल रंग बदलतात का हे बघण्यासाठी तुमचे `flowers`{:class="block3variables"} स्लाईडर ऍडजस्ट करा.
 
 --- /task ---
 
