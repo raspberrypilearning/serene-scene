@@ -1,18 +1,18 @@
-## Colour the flowers
+## పువ్వులకు రంగులు వేయండి
 
-You used a `tree`{:class="block3variables"} variable to change the `size`{:class="block3looks"} of the tree. Now, you can use a variable to change the colour of the flowers.
+ఇప్పుడు, `tree`{:class="block3variables"} వేరియబుల్‌ని `set size to`{:class="block3looks"} బ్లాక్‌కి జోడించండి. ఇప్పుడు, మీరు పువ్వుల రంగును మార్చడానికి వేరియబుల్‌ని ఉపయోగించవచ్చు.
 
 --- task ---
 
-Click on the **flowers** sprite, then create a new `variable`{:class="block3variables"} called `flowers`. If you can't remember how to do this, go back to the previous step for a reminder.
+**flowers** sprite పై క్లిక్ చేసి, ఆపై `flowers` అనబడే`variable`{:class="block3variables"}ని సృష్టించండి. దీన్ని ఎలా చేయాలో మీకు గుర్తులేకపోతే, రిమైండర్ కోసం మునుపటి దశకు తిరిగి వెళ్లండి.
 
 --- /task ---
 
 --- task ---
 
-Change the `color effect`{:class="block3looks"} of the flowers, in the same way that you changed the `size`{:class="block3looks"} of the tree.
+`size`{:class="block3looks"}ని మార్చిన విధంగానే, పువ్వుల యొక్క `color effect`{:class="block3looks"}ని మార్చండి.
 
-![image of flowers sprite](images/flowers-sprite.png)
+![పువ్వుల చిత్రంతో sprite](images/flowers-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -24,9 +24,9 @@ set [color v] effect to [0]
 
 --- task ---
 
-Then, add in your `flowers`{:class="block3variables"} variable.
+తర్వాత, మీ `flowers`{:class="block3variables"} వేరియబుల్‌ని జోడించండి.
 
-![image of flowers sprite](images/flowers-sprite.png)
+![పువ్వుల చిత్రంతో sprite](images/flowers-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -36,21 +36,21 @@ forever
 
 --- /task ---
 
-Variables that store numbers do not always have to have values that are greater than 0. You can use negative numbers as well.
+సంఖ్యలను నిల్వ చేసే వేరియబుల్స్ ఎల్లప్పుడూ 0 కంటే ఎక్కువ విలువలను కలిగి ఉండవలసిన అవసరం లేదు. మీరు ఋణ సంఖ్యలను కూడా ఉపయోగించవచ్చు.
 
 --- task ---
 
-On the Stage, right-click on the `flowers`{:class="block3variables"} variable and set it to **slider**.
+Stage పై `tree`{:class="block3variables"} స్లయిడర్‌పై రైట్-క్లిక్ చేసి, **change slider range** మీద క్లిక్ చేయండి.
 
-Now, change the **slider range** to between `-100` and `100`.
+ఇప్పుడు, **slider range** ని `-100` మరియు `100`మధ్యకు మార్చండి.
 
-![image showing the dialogue box for adjusting the range of the flowers variable with -100 as minimum and 100 as maximum](images/flowers-range.png)
+![flower వేరియబుల్ పరిధిని -100 కనిష్టంగా మరియు 100 గరిష్టంగా సర్దుబాటు చేయడానికి డైలాగ్ బాక్స్‌ను చూపుతున్న చిత్రం](images/flowers-range.png)
 
 --- /task ---
 
 --- task ---
 
-Click on the green flag, then adjust your `flowers`{:class="block3variables"} slider to see the flowers change colour.
+ఆకుపచ్చ జెండాపై క్లిక్ చేసి, ఆపై `flowers`{:class="block3variables"} స్లయిడర్‌ని సర్దుబాటు చేయండి.
 
 --- /task ---
 
