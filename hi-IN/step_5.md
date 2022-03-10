@@ -1,12 +1,12 @@
-## Make the fauna move
+## जीव जंतुओं को हिलाएँ
 
-**Fauna** means **animals**. In this step, you will add a moving grasshopper to your serene scene.
+**जीव जंतुओं** का अर्थ है **जानवर**। इस चरण में, आप अपने शांत दृश्य में एक चलती हुई टिड्डी जोड़ेंगे।
 
 --- task ---
 
-Set up the **Grasshopper** sprite so that it moves from left to right and appears behind the tree and flowers.
+**Grasshopper** स्प्राइट सेट करें ताकि वह बाएं से दाएं घूमे और पेड़ और फूलों के पीछे से दिखाई दे।
 
-![image of grasshopper sprite](images/grasshopper-sprite.png)
+![टिड्डी स्प्राइट की छवि](images/grasshopper-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -18,9 +18,9 @@ set rotation style [left-right v]
 
 --- task ---
 
-Now, make your **Grasshopper** sprite move back and forth across the Stage.
+अब, अपने टिड्डी **Grasshopper** स्प्राइट को पूरे मंच पर आगे-पीछे करें।
 
-![image of grasshopper sprite](images/grasshopper-sprite.png)
+![टिड्डी स्प्राइट की छवि](images/grasshopper-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -33,19 +33,19 @@ if on edge, bounce
 ```
 --- /task ---
 
-The **Grasshopper** sprite is moving a little quickly at the moment, but you can use a `variable`{:class="block3variables"} and a `wait`{:class="block3control"} block to slow it down.
+**Grasshopper** स्प्राइट इस समय थोड़ी तेज़ी से आगे बढ़ रहा है, लेकिन आप `variable`{:class="block3variables"} और `wait` ब्लॉक का उपयोग कर सकते हैं {:class="block3control"} इसे धीमा करने के लिए।
 
 --- task ---
 
-Create a new `variable`{:class="block3variables"} called `grasshopper` and switch it to a **slider**.
+एक नया `variable`{:class="block3variables"} बनाएं जिसे `grasshopper` कहा जाता है और इसे **slider** पर स्विच करें।
 
 --- /task ---
 
 --- task ---
 
-Now, you can use a `wait`{:class="block3control"} block to slow the grasshopper down.
+अब, आप टिड्डे को धीमा करने के लिए `wait`{:class="block3control"} ब्लॉक का उपयोग कर सकते हैं।
 
-![image of grasshopper sprite](images/grasshopper-sprite.png)
+![टिड्डी स्प्राइट की छवि](images/grasshopper-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -60,19 +60,19 @@ if on edge, bounce
 
 --- /task ---
 
-If you click on the green flag and move the slider, you will notice that the grasshopper moves very slowly. To fix this, you need to change the range of the `grasshopper`{:class="block3variables"} variable to a much smaller range of numbers.
+यदि आप हरे झंडे पर क्लिक करते हैं और स्लाइडर को हिलाते हैं, तो आप देखेंगे कि टिड्डा बहुत धीमी गति से चलता है। इसे ठीक करने के लिए, आपको `grasshopper`{:class="block3variables"} चर की सीमा को बहुत छोटी संख्या में बदलने की आवश्यकता है।
 
 --- task ---
 
-On the Stage, right-click on the `grasshopper`{:class="block3variables"} variable and change the slider range to between `0.0` and `1.0`.
+स्टेज पर, `grasshopper`{:class="block3variables"} वेरिएबल पर राइट-क्लिक करें और स्लाइडर रेंज को `0.0` और `1.0` के बीच में बदलें।.
 
-![image of grasshopper range](images/grasshopper-range.png)
+![टिड्डी स्प्राइट की छवि](images/grasshopper-range.png)
 
 --- /task ---
 
 --- task ---
 
-Click on the green flag, then adjust your `grasshopper`{:class="block3variables"} slider to see the **Grasshopper** sprite change speed.
+हरे झंडे पर क्लिक करें, फिर **grasshopper** स्प्राइट परिवर्तन गति देखने के लिए अपने `grasshopper`{:class="block3variables"} स्लाइडर को समायोजित करें।
 
 --- /task ---
 
