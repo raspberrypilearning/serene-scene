@@ -2,81 +2,81 @@
 
 --- task ---
 
-**Online:** open the [starter project](http://rpf.io/serene-scene-on){:target="_blank"} in Scratch.
+**Online:** Scratch లో [స్టార్టర్ ప్రాజెక్ట్ ](http://rpf.io/serene-scene-on){:target="_blank"} ని తెరవండి.
 
-**Offline:** open the [project starter file](http://rpf.io/p/en/serene-scene-go){:target="_blank"} in the Scratch offline editor. If you need to, you can [download and install Scratch here](https://scratch.mit.edu/download){:target="_blank"}.
-
---- /task ---
-
-You should see a forest scene with a tree, flowers, and a grasshopper.
-
-![image of stage for the starter project containing a tree, some flowers, a grasshopper and a forest background](images/stage_1.png)
-
-First, you will make the tree change its size.
-
---- task ---
-
-Select the **Tree1** sprite in the Sprite list below the Stage.
-
-![sprites shown with the tree selected](images/sprites.png)
+**Offline:** Scratch యొక్క ఆఫ్ లైన్ ఎడిటర్ లో [ప్రాజెక్టు స్టార్టర్ ఫైల్](http://rpf.io/p/en/serene-scene-go){:target="_blank"} ని తెరవండి. మీకు అవసరమైతే, మీరు [ఇక్కడ Scratch ను డౌన్ లోడ్ చేసి ఇన్‌స్టాల్ చేయవచ్చు.](https://scratch.mit.edu/download){:target="_blank"}.
 
 --- /task ---
 
-A **variable** is a way of storing numbers and/or text.
+చెట్టు, పూలు, మిడుతలతో కూడిన అటవీ దృశ్యాన్ని మీరు చూడగలగాలి.
+
+![చెట్టు, కొన్ని పువ్వులు, మిడత మరియు అటవీ నేపథ్యాన్ని కలిగి ఉన్న స్టార్టర్ ప్రాజెక్ట్ కోసం Stage యెక్క చిత్రం](images/stage_1.png)
+
+మొదట, మీరు చెట్టు యొక్క పరిమాణం మారేలా చేస్తారు.
 
 --- task ---
 
-To create a new `variable`{:class="block3variables"} in Scratch, click on the `Variables`{:class="block3variables"} blocks menu.
+Stage దిగువన ఉన్న sprite జాబితాలో **Tree1** sprite ని ఎంచుకోండి.
 
-![image showing variable menu](images/variable.png)
-
-Then, click the **Make a Variable** button.
-
-![image showing the make a variable button](images/make-a-variable.png)
-
-You can give your `variable`{:class="block3variables"} a name. Call this variable `tree`.
-
-![image showing dialogue box for creating and naming a variable, with the name field filled out with tree](images/name-variable.png)
+![ఎంచుకున్న చెట్టుతో చూపబడిన sprite లు](images/sprites.png)
 
 --- /task ---
 
-You should now see five new blocks that you can use.
-
-![image showing the blocks for variables](images/variable-blocks.png)
-
-You will also see that the `tree`{:class="block3variables"} block has a check mark next to it. This makes the variable visible on the Stage.
-
-![image showing the stage with the tree variable visible](images/stage_2.png)
+** variable ** అనేది సంఖ్య మరియు/లేదా వచనాన్ని నిల్వ చేసే మార్గం.
 
 --- task ---
 
-There are many ways to control the **value** of a `variable`{:class="block3variables"}, but in this project, you will use **sliders**.
+Scratch లో కొత్త `variable`{:class="block3variables"}ని సృష్టించడానికి, `Variables`{:class="block3variables"} బ్లాక్‌ల మెనుపై క్లిక్ చేయండి.
 
-On the Stage, right-click on the `tree`{:class="block3variables"} variable, and a menu will appear. (If you are using a touchscreen you can tap and hold to make the menu appear).
+![వేరియబుల్ మెనుని చూపుతున్న చిత్రం](images/variable.png)
 
-![image showing context menu for the variable on the stage](images/variable-menu.png)
+ఆపై, **Make a Variable** బటన్‌ను క్లిక్ చేయండి.
 
-Select **slider** in the menu.
+![వేరియబుల్ ను తయారు చేయడానికి బటన్‌ను చూపుతున్న చిత్రం](images/make-a-variable.png)
 
-![image showing tree variable with slider](images/tree-slider.png)
+మీరు మీ ` variable `{:class="block3variables"} కి పేరు పెట్టవచ్చు. ఈ వేరియబుల్‌ని `tree` అని పిలవండి.
+
+![Tree అనే పేరు గల ఫీల్డ్‌తో వేరియబుల్‌ను సృష్టించడం మరియు పేరు పెట్టడం కోసం డైలాగ్ బాక్స్‌ని చూపుతున్న చిత్రం](images/name-variable.png)
+
+--- /task ---
+
+ఇప్పుడు మీరు, ఉపయోగించగల ఐదు కొత్త బ్లాక్‌లను చూడగలగాలి.
+
+![వేరియబుల్స్ కోసం బ్లాక్‌లను చూపుతున్న చిత్రం](images/variable-blocks.png)
+
+`tree`{:class="block3variables"} బ్లాక్‌కి పక్కన చెక్ మార్క్ ఉన్నట్లు కూడా చూస్తారు. ఇది Stage పైన వేరియబుల్ కనిపించేలా చేస్తుంది.
+
+![tree వేరియబుల్‌ కనిపించేలా Stage ను చూపుతున్న చిత్రం](images/stage_2.png)
+
+--- task ---
+
+` variable `{:class="block3variables"} యొక్క **value** ని నియంత్రించడానికి అనేక మార్గాలు ఉన్నాయి కానీ ఈ ప్రాజెక్ట్ లో **sliders**. ని ఉపయోగించవచ్చు.
+
+Stage మీద `tree`{:class="block3variables"} వేరియబుల్‌పై రైట్ - క్లిక్ చేయండి మరియు మెను కనిపిస్తుంది. (మీరు టచ్‌స్క్రీన్‌ని ఉపయోగిస్తుంటే, మెను కనిపించేలా చేయడానికి మీరు నొక్కి పట్టుకోవచ్చు).
+
+![వేరియబుల్ కోసం Stage పై context మెనుని చూపుతున్న చిత్రం](images/variable-menu.png)
+
+మెనులో **slider** ను ఎంచుకోండి.
+
+![స్లయిడర్‌తో tree వేరియబుల్‌ని చూపుతున్న చిత్రం](images/tree-slider.png)
 
 --- /task ---
 
 --- task ---
 
-Move the slider forwards and backwards, and you will see that the value of the `tree`{:class="block3variables"} variable changes between `0`{:class="block3variables"} and `100`{:class="block3variables"} (percent).
+స్లయిడర్‌ను ముందుకు వెనుకకు తరలించండి మరియు `tree`{:class="block3variables"} వేరియబుల్ విలువ `0`{:class="block3variables"} మరియు `100`{:class=" block3variables"} మధ్య మారడం మీరు చూస్తారు. (శాతం).
 
 --- /task ---
 
-Now, you will use the value of the `tree`{:class="block3variables"} variable to change the size of the tree.
+ఇప్పుడు మీరు, చెట్టు పరిమాణాన్ని మార్చడానికి `tree`{:class="block3variables"} వేరియబుల్ విలువను ఉపయోగిస్తారు.
 
 --- task ---
 
-First, use a `when green flag clicked`{:class="block3events"} block with a `forever`{:class="block3control"} loop. Add a `set size to`{:class="block3looks"} block into the loop.
+ముందుగా, `forever`{:class="block3control"} లూప్‌తో, `when green flag clicked`{:class="block3events"} బ్లాక్‌ని ఉపయోగించండి. `set size to`{:class="block3looks"} బ్లాక్ ని లూప్ కి జోడించండి.
 
-This means that once the flag is clicked, the `set size to`{:class="block3looks"} block in the `forever`{:class="block3control"} loop will keep the tree size at `100` percent.
+దీనర్థం, ఫ్లాగ్‌ని క్లిక్ చేసిన తర్వాత, `forever`{:class="block3control"} లూప్‌లో `set size to`{:class="block3looks"} బ్లాక్, చెట్టు పరిమాణాన్ని`100` శాతం వద్ద ఉంచుతుంది.
 
-![tree sprite image](images/tree-sprite.png)
+![tree sprite చిత్రం](images/tree-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -88,15 +88,15 @@ set size to [100] %
 
 --- task ---
 
-Now, add the `tree`{:class="block3variables"} variable into the `set size to`{:class="block3looks"} block.
+ఇప్పుడు, `tree`{:class="block3variables"} వేరియబుల్‌ని `set size to`{:class="block3looks"} బ్లాక్‌కి జోడించండి.
 
 --- no-print ---
 
-![animate gif showing the tree variable placed inside the set size block](images/place-variable.gif)
+![సెట్ సైజ్ బ్లాక్‌లో ఉంచబడిన tree వేరియబుల్‌ని చూపుతున్న gif యానిమేట్](images/place-variable.gif)
 
 --- /no-print ---
 
-![tree sprite image](images/tree-sprite.png)
+![tree sprite చిత్రం](images/tree-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -106,31 +106,31 @@ forever
 
 --- /task ---
 
-You can now move the slider to adjust the size of the tree.
+మీరు ఇప్పుడు చెట్టు పరిమాణాన్ని సర్దుబాటు చేయడానికి స్లయిడర్‌ను తరలించవచ్చు.
 
 --- no-print ---
 
-![animated gif showing the tree slider being adjusted and the tree changing in size](images/change-tree.gif)
+![యానిమేటెడ్ gif tree స్లయిడర్ సర్దుబాటు చేయబడుతోంది మరియు చెట్టు పరిమాణంలో మార్పు చెందుతోంది](images/change-tree.gif)
 
 --- /no-print ---
 
-At the moment, the tree size can only be changed from `0`{:class="block3variables"} to `100`{:class="block3variables"}.
+ప్రస్తుతానికి, చెట్టు పరిమాణాన్ని `0`{:class="block3variables"} నుండి `100`{:class="block3variables"}కి మాత్రమే మార్చవచ్చు.
 
 --- task ---
 
-On the Stage, right-click on the `tree`{:class="block3variables"} slider and select **change slider range**.
+Stage పై `tree`{:class="block3variables"} స్లయిడర్‌పై రైట్-క్లిక్ చేసి, **change slider range** మీద క్లిక్ చేయండి.
 
-![image showing context menu for the slider, with change slider range visible](images/slider-range.png)
+![స్లయిడర్ కోసం context మెనుని చూపుతున్న చిత్రం, change స్లయిడర్ ద్వారా పరిధి కనిపిస్తుంది](images/slider-range.png)
 
 --- /task ---
 
 --- task ---
 
-Change the range to between `100` and `300`.
+పరిధిని `100` మరియు `300`మధ్యకు మార్చండి.
 
-![image showing slider dialogue box with minimum set to 100 and maximum set to 300](images/adjusted-range.png)
+![కనిష్టంగా 100కి మరియు గరిష్టంగా 300కి సెట్ చేయబడిన స్లయిడర్ డైలాగ్ బాక్స్‌ను చూపుతున్న చిత్రం](images/adjusted-range.png)
 
-Now, move the slider to watch your tree grow in size from 100% to 300%.
+ఇప్పుడు, మీ చెట్టు పరిమాణం 100% నుండి 300% వరకు పెరగడం చూడటానికి స్లయిడర్‌ను తరలించండి.
 
 --- /task ---
 
