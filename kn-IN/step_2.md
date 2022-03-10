@@ -1,82 +1,82 @@
-## Grow a tree
+## ಮರವೊಂದನ್ನು ಬೆಳೆಸಿ
 
 --- task ---
 
-**Online:** open the [starter project](http://rpf.io/serene-scene-on){:target="_blank"} in Scratch.
+**ಆನ್‌ಲೈನ್:** ಸ್ಕ್ರಾಚ್‌ನಲ್ಲಿ [ಪ್ರಾರಂಭಿಕ ಪ್ರಾಜೆಕ್ಟ್](http://rpf.io/serene-scene-on){:target="_blank"} ತೆರೆಯಿರಿ.
 
-**Offline:** open the [project starter file](http://rpf.io/p/en/serene-scene-go){:target="_blank"} in the Scratch offline editor. If you need to, you can [download and install Scratch here](https://scratch.mit.edu/download){:target="_blank"}.
+**ಆಫ್‌ಲೈನ್:** ಸ್ಕ್ರಾಚ್‌ ಆಫ್‌ಲೈನ್‌ ಎಡಿಟರ್‌ನಲ್ಲಿ [ಪ್ರಾಜೆಕ್ಟ್‌ ಪ್ರಾರಂಭಿಕ ಫೈಲ್](http://rpf.io/p/en/serene-scene-go){:target="_blank"} ತೆರೆಯಿರಿ. ನಿಮಗೆ ಬೇಕಾದರೆ, ನೀವು [ಇಲ್ಲಿ Scratch ಡೌನ್‌ಲೋಡ್‌ ಮಾಡಿಕೊಂಡು ಇನ್‌ಸ್ಟಾಲ್‌ ಮಾಡಬಹುದು](https://scratch.mit.edu/download){:target="_blank"}.
 
 --- /task ---
 
-You should see a forest scene with a tree, flowers, and a grasshopper.
+ನೀವು ಮರ, ಹೂವುಗಳು ಮತ್ತು ಮಿಡತೆಯಿರುವ ಕಾಡಿನ ದೃಶ್ಯವನ್ನು ನೋಡಬೇಕು.
 
-![image of stage for the starter project containing a tree, some flowers, a grasshopper and a forest background](images/stage_1.png)
+![ಮರ, ಕೆಲವು ಹೂವುಗಳು, ಮಿಡತೆ ಮತ್ತು ಕಾಡಿನ ಹಿನ್ನೆಲೆಯನ್ನು ಹೊಂದಿರುವ ಪ್ರಾರಂಭಿಕ ಪ್ರಾಜೆಕ್ಟ್‌ಗಾಗಿ ವೇದಿಕೆಯ ಚಿತ್ರ](images/stage_1.png)
 
-First, you will make the tree change its size.
+ಮೊದಲಿಗೆ, ನೀವು ಮರದ ಗಾತ್ರವನ್ನು ಬದಲಾಯಿಸುತ್ತೀರಿ.
 
 --- task ---
 
-Select the **Tree1** sprite in the Sprite list below the Stage.
+ಸ್ಟೇಜ್‌ ಕೆಳಗಿನ ಸ್ಪ್ರೈಟ್‌ ಲಿಸ್ಟ್‌ನಲ್ಲಿ **Tree1** ಸ್ಪ್ರೈಟ್‌ ಆಯ್ಕೆ ಮಾಡಿ.
 
-![sprites shown with the tree selected](images/sprites.png)
+![ಆಯ್ಕೆಮಾಡಿರುವ ಮರದೊಂದಿಗೆ ಸ್ಪ್ರೈಟ್‌ಗಳನ್ನು ತೋರಿಸುವುದು](images/sprites.png)
 
 --- /task ---
 
-A **variable** is a way of storing numbers and/or text.
+**variable** ಎಂದರೆ ಸಂಖ್ಯೆಗಳನ್ನು ಮತ್ತು/ಅಥವಾ ಅಕ್ಷರಗಳನ್ನು ಸಂಗ್ರಹಣೆ ಮಾಡುವ ವಿಧಾನ.
 
 --- task ---
 
-To create a new `variable`{:class="block3variables"} in Scratch, click on the `Variables`{:class="block3variables"} blocks menu.
+ಸ್ಕ್ರಾಚ್‌ನಲ್ಲಿ ಹೊಸ `variable`{:class="block3variables"} ರಚಿಸಲು ಬ್ಲಾಕ್‌ ಮೆನುನಲ್ಲಿ `Variables`{:class="block3variables"} ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ.
 
-![image showing variable menu](images/variable.png)
+![ವೇರಿಯೇಬಲ್‌ ಮೆನು ತೋರಿಸುವ ಚಿತ್ರ](images/variable.png)
 
-Then, click the **Make a Variable** button.
+ನಂತರ **Make a Variable** ಬಟನ್‌ ಕ್ಲಿಕ್‌ ಮಾಡಿ.
 
-![image showing the make a variable button](images/make-a-variable.png)
+![ವೇರಿಯೇಬಲ್‌ ಮಾಡಿ ಬಟನ್‌ ತೋರಿಸುವ ಚಿತ್ರ](images/make-a-variable.png)
 
-You can give your `variable`{:class="block3variables"} a name. Call this variable `tree`.
+ನೀವು ನಿಮ್ಮ`variable`{:class="block3variables"}ಗೆ ಹೆಸರು ಕೊಡಬಹುದು. ಈ ವೇರಿಯೇಬಲ್‌ನ್ನು `tree` ಎಂದು ಕರೆಯಿರಿ.
 
-![image showing dialogue box for creating and naming a variable, with the name field filled out with tree](images/name-variable.png)
+![ವೇರಿಯೇಬಲ್‌ನ್ನು ರಚಿಸಿ ಹೆಸರಿಸಲು, ಹೆಸರಿನ ಕ್ಷೇತ್ರವು ಮರದಿಂದ ತುಂಬಿರುವ ಡೈಲಾಗ್‌ ಬಾಕ್ಸ್‌ ತೋರಿಸುತ್ತಿರುವ ಚಿತ್ರ](images/name-variable.png)
 
 --- /task ---
 
-You should now see five new blocks that you can use.
+ಈಗ ನೀವು ಬಳಸಬಹುದಾದ ಐದು ಹೊಸ ಬ್ಲಾಕ್‌ಗಳನ್ನು ನೋಡಬೇಕು.
 
-![image showing the blocks for variables](images/variable-blocks.png)
+![ವೇರಿಯೇಬಲ್‌ಗಳ ಬ್ಲಾಕ್‌ಗಳನ್ನು ತೋರಿಸುತ್ತಿರುವ ಚಿತ್ರ](images/variable-blocks.png)
 
-You will also see that the `tree`{:class="block3variables"} block has a check mark next to it. This makes the variable visible on the Stage.
+`tree`{:class="block3variables"} ಬ್ಲಾಕ್‌ ಅದರ ಪಕ್ಕದಲ್ಲಿ ಚೆಕ್‌ ಗುರುತು ಹೊಂದಿರುವುದನ್ನು ಸಹ ನೀವು ನೋಡುವಿರಿ. ಇದು Stage ಮೇಲೆ ವೇರಿಯೇಬಲ್ ಗೋಚರಿಸುವಂತೆ ಮಾಡುತ್ತದೆ.
 
-![image showing the stage with the tree variable visible](images/stage_2.png)
+![ಮರದ ವೇರಿಯೇಬಲ್‌ನೊಂದಿಗೆ ವೇದಿಕೆ ತೋರಿಸುವ ಚಿತ್ರ](images/stage_2.png)
 
 --- task ---
 
-There are many ways to control the **value** of a `variable`{:class="block3variables"}, but in this project, you will use **sliders**.
+`variable`{:class="block3variables"} ನ **ಮೌಲ್ಯ**ವನ್ನು ನಿಯಂತ್ರಿಸಲು ಅನೇಕ ವಿಧಾನಗಳಿವೆ, ಆದರೆ ಈ ಪ್ರಾಜೆಕ್ಟ್‌ನಲ್ಲಿ ನೀವು **ಸ್ಲೈಡರ್ಸ್** ಉಪಯೋಗಿಸುತ್ತೀರಿ.
 
-On the Stage, right-click on the `tree`{:class="block3variables"} variable, and a menu will appear. (If you are using a touchscreen you can tap and hold to make the menu appear).
+Stage ಮೇಲೆ, `tree`{:class="block3variables"} ವೇರಿಯೇಬಲ್‌ ಮೇಲ ರೈಟ್-ಕ್ಲಿಕ್‌ ಮಾಡಿ ಮತ್ತು ಒಂದು ಮೇನು ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತದೆ. (ನೀವು ಟಚ್‌ಸ್ಕ್ರೀನ್ ಅನ್ನು ಬಳಸುತ್ತಿದ್ದರೆ ಮೆನು ಕಾಣಿಸಿಕೊಳ್ಳಲು ಟ್ಯಾಪ್ ಮಾಡಿ ಮತ್ತು ಹಿಡಿದಿಟ್ಟುಕೊಳ್ಳಬಹುದು).
 
-![image showing context menu for the variable on the stage](images/variable-menu.png)
+![ವೇದಿಕೆಯ ಮೇಲಿನ ವೇರಿಯೇಬಲ್‌ಗೆ ಕಾಂಟೆಕ್ಟ್ ಮೆನು ತೋರಿಸುವ ಚಿತ್ರ](images/variable-menu.png)
 
-Select **slider** in the menu.
+ಮೆನುನಲ್ಲಿ **slider** ಆಯ್ಕೆ ಮಾಡಿಕೊಳ್ಳಿ.
 
-![image showing tree variable with slider](images/tree-slider.png)
+![ಸ್ಲೈಡರ್‌ನೊಂದಿಗೆ ಮರದ ವೇರಿಯಬಲ್‌ನ್ನು ತೋರಿಸುವ ಚಿತ್ರ](images/tree-slider.png)
 
 --- /task ---
 
 --- task ---
 
-Move the slider forwards and backwards, and you will see that the value of the `tree`{:class="block3variables"} variable changes between `0`{:class="block3variables"} and `100`{:class="block3variables"} (percent).
+ಸ್ಲೈಡರ್‌ನ್ನು ಹಿಂದೆ ಮತ್ತು ಮುಂದೆ ಚಲಿಸಿ, ಮತ್ತು `tree`{:class="block3variables"} ವೇರಿಯೇಬಲ್‌ ಮೌಲ್ಯವು `0`{:class="block3variables"} ಮತ್ತು `100`{:class="block3variables"} (ಶೇಕಡಾ) ನಡುವೆ ಬದಲಾಗುವುದನ್ನು ಕಾಣಬಹುದು.
 
 --- /task ---
 
-Now, you will use the value of the `tree`{:class="block3variables"} variable to change the size of the tree.
+ಈಗ, ನೀವು ಮರದ ಗಾತ್ರವನ್ನು ಬದಲಾಯಿಸಲು `tree`{:class="block3variables"} ವೇರಿಯೇಬಲ್‌ನ ಮೌಲ್ಯವನ್ನು ಉಪಯೋಗಿಸುವಿರಿ.
 
 --- task ---
 
-First, use a `when green flag clicked`{:class="block3events"} block with a `forever`{:class="block3control"} loop. Add a `set size to`{:class="block3looks"} block into the loop.
+ಮೊದಲಿಗೆ, `when green flag clicked`{:class="block3events"} ಬ್ಲಾಕ್‌ನ್ನು`forever`{:class="block3control"}ಲೂಪ್‌ನೊಂದಿಗೆ ಉಪಯೋಗಿಸಿ. `set size to`{:class="block3looks"} ಬ್ಲಾಕ್‌ನ್ನು ಲೂಪ್‌ ಒಳಗೆ ಸೇರಿಸಿ.
 
-This means that once the flag is clicked, the `set size to`{:class="block3looks"} block in the `forever`{:class="block3control"} loop will keep the tree size at `100` percent.
+ಇದರ ಅರ್ಥ ಒಮ್ಮೆ ಬಾವುಟವನ್ನು ಕ್ಲಿಕ್‌ ಮಾಡಿದರೆ, `forever`{:class="block3control"} ಲೂಪ್‌ನಲ್ಲಿರುವ`set size to`{:class="block3looks"} ಬ್ಲಾಕ್‌ ಮರದ ಗಾತ್ರವನ್ನು ಶೇಕಡಾ`100`ರಲ್ಲಿ ಇಡುತ್ತದೆ.
 
-![tree sprite image](images/tree-sprite.png)
+![ಮರದ ಸ್ಪ್ರೈಟ್‌ ಚಿತ್ರ](images/tree-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -88,15 +88,15 @@ set size to [100] %
 
 --- task ---
 
-Now, add the `tree`{:class="block3variables"} variable into the `set size to`{:class="block3looks"} block.
+ಈಗ, `tree`{:class="block3variables"} ವೇರಿಯೇಬಲ್‌ನ್ನು `set size to`{:class="block3looks"} ಬ್ಲಾಕ್‌ಗೆ ಸೇರಿಸಿ.
 
 --- no-print ---
 
-![animate gif showing the tree variable placed inside the set size block](images/place-variable.gif)
+![ಸೆಟ್‌ ಸೈಜ್‌ ಬಾಕ್ಸ್‌ನಲ್ಲಿ ಇರಿಸಲಾದ ಮರದ ವೇರಿಯೇಬಲ್‌ ತೋರಿಸುವ ಅನಿಮೇಟ್‌ ಜಿಐಎಫ್](images/place-variable.gif)
 
 --- /no-print ---
 
-![tree sprite image](images/tree-sprite.png)
+![ಮರದ ಸ್ಪ್ರೈಟ್ ಚಿತ್ರ](images/tree-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -106,31 +106,31 @@ forever
 
 --- /task ---
 
-You can now move the slider to adjust the size of the tree.
+ಮರದ ಗಾತ್ರವನ್ನು ಹೊಂದಿಸಲು ನೀವು ಈಗ ಸ್ಲೈಡರ್‌ ಚಲಿಸಬಹುದು.
 
 --- no-print ---
 
-![animated gif showing the tree slider being adjusted and the tree changing in size](images/change-tree.gif)
+![ಮರದ ಸ್ಲೈಡರ್‌ ಹೊಂದಿಸುತ್ತಿರುವ ಮತ್ತು ಮರದ ಗಾತ್ರ ಬದಲಾಗುತ್ತಿರುವುದನ್ನು ತೋರಿಸುವ ಅಮಿಮೇಟೆಡ್‌ ಜಿಐಎಫ್](images/change-tree.gif)
 
 --- /no-print ---
 
-At the moment, the tree size can only be changed from `0`{:class="block3variables"} to `100`{:class="block3variables"}.
+ಈ ಸಮಯದಲ್ಲಿ, ಮರದ ಗಾತ್ರವನ್ನು `0`{:class="block3variables"} ದಿಂದ `100`{:class="block3variables"}ವರೆಗೆ ಮಾತ್ರ ಬದಲಾಯಿಸಬಹುದು.
 
 --- task ---
 
-On the Stage, right-click on the `tree`{:class="block3variables"} slider and select **change slider range**.
+Stage ಮೇಲೆ, `tree`{:class="block3variables"} ಸ್ಲೈಡರ್‌ ಮೇಲೆ ರೈಟ್‌-ಕ್ಲಿಕ್‌ ಮಾಡಿ ಮತ್ತು **change slider range** ಆಯ್ಕೆ ಮಾಡಿಕೊಳ್ಳಿ.
 
-![image showing context menu for the slider, with change slider range visible](images/slider-range.png)
+![ಬದಲಾಯಿಸುವ ಸ್ಲೈಡರ್‌ ಶ್ರೇಣಿಯೊಂದಿಗೆ, ಸ್ಲೈಡರ್‌ನ ಕಾಂಟೆಕ್ಟ್‌ ಮೆನು ತೋರಿಸುವ ಚಿತ್ರ](images/slider-range.png)
 
 --- /task ---
 
 --- task ---
 
-Change the range to between `100` and `300`.
+`100` ಮತ್ತು `300` ನಡುವೆ ಶ್ರೇಣಿಯನ್ನು ಬದಲಾಯಿಸಿ.
 
-![image showing slider dialogue box with minimum set to 100 and maximum set to 300](images/adjusted-range.png)
+![ಕನಿಷ್ಠ 100 ಮತ್ತು ಗರಿಷ್ಠ 300ಕ್ಕೆ ಹೊಂದಿಸಿರುವ ಸ್ಲೈಡರ್‌ ಡೈಲಾಗ್‌ ಬಾಕ್ಸ್‌ ತೋರಿಸುವ ಚಿತ್ರ](images/adjusted-range.png)
 
-Now, move the slider to watch your tree grow in size from 100% to 300%.
+ಈಗ, ನಿಮ್ಮ ಮರ ಗಾತ್ರದಲ್ಲಿ 100% ದಿಂದ 300%ವರೆಗೆ ಬೆಳೆಯುವುದನ್ನು ನೋಡಲು ಸ್ಲೈಡರ್‌ ಚಲಿಸಿ.
 
 --- /task ---
 
