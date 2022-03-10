@@ -1,18 +1,18 @@
-## Colour the flowers
+## ಹೂವಗಳಿಗೆ ಬಣ್ಣ ನೀಡಿ
 
-You used a `tree`{:class="block3variables"} variable to change the `size`{:class="block3looks"} of the tree. Now, you can use a variable to change the colour of the flowers.
+ಮರದ `size`{:class="block3looks"}ಬದಲಾಯಿಸಲು ನೀವು `tree`{:class="block3variables"} ವೇರಿಯೇಬಲ್‌ ಉಪಯೋಗಿಸಿದ್ದೀರಿ. ಈಗ, ನೀವು ಹೂವುಗಳ ಬಣ್ಣವನ್ನು ಬದಲಾಯಿಸಲು ವೇರಿಯೇಬಲ್‌ ಉಪಯೋಗಿಸಬಹುದು.
 
 --- task ---
 
-Click on the **flowers** sprite, then create a new `variable`{:class="block3variables"} called `flowers`. If you can't remember how to do this, go back to the previous step for a reminder.
+**flowers** ಸ್ಪ್ರೈಟ್‌ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ, ನಂತರ `flowers`ಎಂದು ಕರೆಯಲ್ಪಡುವ ಹೊಸ `variable`{:class="block3variables"} ರಚನೆ ಮಾಡಿ. ಇದನ್ನು ಹೇಗೆ ಮಾಡುವುದು ಎಂದು ನಿಮಗೆ ನೆನಪಿನಲ್ಲಿಟ್ಟುಕೊಳ್ಳಲು ಆಗದಿದ್ದರೆ, ಜ್ಞಾಪಿಸಿಕೊಳ್ಳಲು ಹಿಂದಿನ ಹಂತಕ್ಕೆ ಪುನಃ ಹೋಗಿ.
 
 --- /task ---
 
 --- task ---
 
-Change the `color effect`{:class="block3looks"} of the flowers, in the same way that you changed the `size`{:class="block3looks"} of the tree.
+ಮರದ `size`{:class="block3looks"} ಬದಲಾಯಿಸಿದ ವಿಧಾನದಲ್ಲಿಯೇ ಹೂವುಗಳ `color effect`{:class="block3looks"} ಬದಲಾಯಿಸಿ.
 
-![image of flowers sprite](images/flowers-sprite.png)
+![ಹೂವುಗಳ ಸ್ಪ್ರೈಟ್‌ನ ಚಿತ್ರ](images/flowers-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -24,9 +24,9 @@ set [color v] effect to [0]
 
 --- task ---
 
-Then, add in your `flowers`{:class="block3variables"} variable.
+ಆಮೇಲೆ, ನಿಮ್ಮ `flowers`{:class="block3variables"} ವೇರಿಯೇಬಲ್‌ ಸೇರಿಸಿ.
 
-![image of flowers sprite](images/flowers-sprite.png)
+![ಹೂವುಗಳ ಸ್ಪ್ರೈಟ್‌ನ ಚಿತ್ರ](images/flowers-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -36,23 +36,23 @@ forever
 
 --- /task ---
 
-Variables that store numbers do not always have to have values that are greater than 0. You can use negative numbers as well.
+ಸಂಖ್ಯೆಗಳನ್ನು ಸಂಗ್ರಹಣೆ ಮಾಡುವ ವೇರಿಯೇಬಲ್‌ಗಳು ಯಾವಾಗಲೂ 0 ಗಿಂತ ಹೆಚ್ಚಿನ ಮೌಲ್ಯ ಹೊಂದಿರಬೇಕಾಗಿಲ್ಲ. ನೀವು ನಕಾರಾತ್ಮಕ ಸಂಖ್ಯೆಗಳನ್ನು ಸಹ ಬಳಸಬಹುದು.
+
+--- ಕಾರ್ಯ ---
+
+Stage ಮೇಲೆ, `flowers`{:class="block3variables"} ವೇರಿಯೇಬಲ್‌ ಮೇಲೆ ರೈಟ್-ಕ್ಲಿಕ್‌ ಮಾಡಿ ಮತ್ತು ಅದನ್ನು **slider** ಗೆ ಹೊಂದಿಸಿ.
+
+ಈಗ, **slider range** ನ್ನು `-100` ಮತ್ತು `100` ನಡುವೆ ಬದಲಾಯಿಸಿ.
+
+![ಕನಿಷ್ಠ -100 ಮತ್ತು ಗರಿಷ್ಠ 100 ನೊಂದಿಗೆ ಹೂವುಗಳ ವೇರಿಯೇಬಲ್‌ನ ಶ್ರೇಣಿಯನ್ನು ಹೊಂದಿಸಲು ಡೈಲಾಗ್‌ ಬಾಕ್ಸ್ ತೋರಿಸುವ ಚಿತ್ರ](images/flowers-range.png)
+
+--- /task ---
 
 --- task ---
 
-On the Stage, right-click on the `flowers`{:class="block3variables"} variable and set it to **slider**.
+ಹಸಿರು ಬಾವುಟದ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ, ನಂತರ ನಿಮ್ಮ `flowers`{:class="block3variables"} ಸ್ಲೈಡರ್‌ ಹೊಂದಿಸಿ, ಹೂವುಗಳು ಬಣ್ಣ ಬದಲಾಯಿಸುವುದನ್ನು ನೋಡಿ.
 
-Now, change the **slider range** to between `-100` and `100`.
-
-![image showing the dialogue box for adjusting the range of the flowers variable with -100 as minimum and 100 as maximum](images/flowers-range.png)
-
---- /task ---
-
---- task ---
-
-Click on the green flag, then adjust your `flowers`{:class="block3variables"} slider to see the flowers change colour.
-
---- /task ---
+--- /ಕಾರ್ಯ ---
 
 --- save ---
 
