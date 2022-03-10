@@ -1,10 +1,10 @@
-## Introduction
+## పరిచయం
 
-You will develop a serene (meaning peaceful) scene of a wood, which you can look at, listen to, and relax with.
+మీరు చూడదగిన, వినదగిన, కాస్త రిలాక్స్ అవగలిగిన, ప్రశాంతమైన అటవీ దృశ్యాన్ని తయారు చేస్తారు.
 
 --- no-print ---
 
-Click on the green flag, then move the sliders to change the scene.
+దృశ్యాన్ని మార్చడానికి, ఆకుపచ్చ జెండాపై క్లిక్ చేసి, స్లయిడర్‌లను మూవ్ చేయండి
 
 <div>
 <iframe src="https://scratch.mit.edu/projects/401955374/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
@@ -14,44 +14,44 @@ Click on the green flag, then move the sliders to change the scene.
 
 --- print-only ---
 
-![Complete project](images/showcase.png)
+![పూర్తి ప్రాజెక్ట్](images/showcase.png)
 
 --- /print-only ---
 
 --- collapse ---
 ---
-title: What you will need
+title: మీకు కావల్సినవి
 ---
 
-### Hardware
-+ A computer or tablet capable of running Scratch
+### హార్డవేర్
++ Scratch ని అమలు చేయగల సామర్థ్యం ఉన్న కంప్యూటర్ లేదా టాబ్లెట్
 
-### Software
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
+### సాఫ్ట్‌వేర్
++ Scratch 3 ( [online](https://scratch.mit.edu/){:target="_blank"} లేదా [offline](https://scratch.mit.edu/download){:target="_blank"})
 
-### Downloads
-+  If you are working offline, download the [project starter file](https://rpf.io/p/en/serene-scene-go){:target="_blank"}
+### డౌన్‌లోడ్‌లు
++  మీరు ఆఫ్‌లైన్‌లో పని చేస్తుంటే, [ప్రాజెక్ట్ స్టార్టర్ ఫైల్](https://rpf.io/p/en/serene-scene-go){:target="_blank"}ని డౌన్‌లోడ్ చేయండి
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: మీరు నేర్చుకోబోయేది
 ---
 
-- How to create `variables`{:class="block3variables"}
-- How to use sliders to change the value of `variables`{:class="block3variables"}
-- How to use `forever`{:class="block3control"} loops to check variable values
+- `వేరియబుల్స్`{:class="block3variables"}ని ఎలా సృష్టించాలి
+- `వేరియబుల్స్`{:class="block3variables"} విలువను మార్చడానికి స్లయిడర్‌లను ఎలా ఉపయోగించాలి
+- `forever`{:class="block3control"} లూప్‌లను ఎలా ఉపయోగించాలి
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: అధ్యాపకులకు అదనపు సమాచారం
 ---
 
-You can [download the completed project here](https://rpf.io/p/en/serene-scene-get){:target="_blank"}.
+మీరు [పూర్తి ప్రాజెక్ట్ ఇక్కడ డౌన్ లోడ్ చేయవచ్చు](https://rpf.io/p/en/serene-scene-get){: target = "_ blank"}.
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/serene-scene/print){:target="_blank"}.
+మీరు ఈ ప్రాజెక్ట్‌ను ప్రింట్ చేయాలనుకుంటే, దయచేసి [ప్రింటర్ అనుకూల వెర్షన్](https://projects.raspberrypi.org/en/projects/serene-scene/print){:target="_blank"}ని ఉపయోగించండి.
 
---- /collapse ---
+--- /కొలాప్స్ ---
