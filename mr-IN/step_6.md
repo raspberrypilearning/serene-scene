@@ -1,10 +1,10 @@
-## Add more
+## आणखी जोडा
 
 --- task ---
 
-Add a **dragonfly** sprite to your project, and use a `variable`{:class="block3variables"} slider to control the speed at which the dragonfly moves. The dragonfly could move from side to side, like the grasshopper.
+तुमच्या प्रोजेक्टला **dragonfly** स्प्राईट जोडा, आणि ड्रॅगनफ्लायने हलायच्या गतीला नियंत्रीत करण्यासाठी `variable`{:class="block3variables"} स्लाईडरचा वापर करा. dragonfly गवती टोळाप्रमाणे बाजूबाजूने हलू शकतात.
 
-![animated gif of forest with randomly moving butterfly](images/dragonfly.gif)
+![कुठेही फिरणाऱ्या फुलपाखरासह जंगलाचे ऍनिमेटेड gif](images/dragonfly.gif)
 
 --- /task ---
 
