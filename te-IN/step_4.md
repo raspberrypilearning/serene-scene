@@ -1,26 +1,26 @@
-## Set the scene
+## సన్నివేశాన్ని సెట్ చేయండి
 
-In Scratch, you can also add code to the **Stage**, rather than to a sprite. In this step, you will change the brightness of the backdrop and add some soothing sound effects.
+Scratch లో, మీరు sprite కి కాకుండా **Stage** కి కూడా కోడ్‌ని జోడించవచ్చు. ఈ దశలో, మీరు నేపధ్యం ప్రకాశాన్ని మారుస్తారు మరియు కొన్ని వినసొంపైన సౌండ్ ఎఫెక్ట్‌లను జోడిస్తారు.
 
 --- task ---
 
-Go to the Stage pane and click on the **backdrop**. You will now develop a program for the **backdrop** in the Code area.
+Stage paneకి వెళ్లి, **backdrop**పై క్లిక్ చేయండి. మీరు ఇప్పుడు Code ప్రదేశంలో **backdrop** కోసం ప్రోగ్రామ్‌ను అభివృద్ధి చేస్తారు.
 
-![image of backdrop selection](images/backdrop.png)
+![బ్యాక్‌డ్రాప్ ఎంపిక యొక్క చిత్రం](images/backdrop.png)
 
-In the `Variables`{:class="block3variables"} blocks menu, click on **Make a Variable** and call the new variable `light`. Change the variable to a **slider** with a range between `-40` and `40`.
+`Variables`{:class="block3variables"} బ్లాక్స్ మెనులో, **Make a Variable** పై క్లిక్ చేసి, కొత్త వేరియబుల్ ను `light` అని పిలవండి. వేరియబుల్ ను `-40` మరియు `40`మధ్య పరిధితో **slider** పై మార్చండి.
 
 --- /task ---
 
 --- task ---
 
-Just as before, you can use this variable to change the appearance of the backdrop.
+మునుపటిలాగే, బ్యాక్‌డ్రాప్ రూపాన్ని మార్చడానికి మీరు ఈ వేరియబుల్‌ని ఉపయోగించవచ్చు.
 
-Use the `set color effect to`{:class="block3looks"} block, but use the drop-down menu to change `color`{:class="block3looks"} to `brightness`{:class="block3looks"}.
+`set color effect`{:class="block3looks"} బ్లాక్‌ ని ఉపయోగించండి, కానీ `color`{:class="block3looks"}ని `brightness`{:class="block3looks"}కి మార్చడానికి డ్రాప్-డౌన్ మెనుని ఉపయోగించండి.
 
-![image showing selection for the looks effect block](images/brightness.png)
+![లుక్స్ ఎఫెక్ట్ బ్లాక్ కోసం ఎంపికను చూపుతున్న చిత్రం](images/brightness.png)
 
-![image of backdrop](images/backdrop-sprite.png)
+![నేపథ్య చిత్రం](images/backdrop-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -30,45 +30,45 @@ set [brightness v] effect to (light)
 
 --- /task ---
 
-Now, when you adjust the `light`{:class="block3variables"} slider, you should see the forest change its brightness so that it looks like a dark evening or a bright summer's day.
+ఇప్పుడు, మీరు `light`{:class="block3variables"} స్లయిడర్‌ని సర్దుబాటు చేసినప్పుడు, అడవి చీకటి సాయంత్రం లేదా ప్రకాశవంతమైన వేసవి రోజులా కనిపించేలా దాని ప్రకాశాన్ని మార్చడాన్ని మీరు చూడగలగాలి.
 
-You can also add sound effects to the **Stage**.
+**Stage**కి సౌండ్ ఎఫెక్ట్‌లను కూడా జోడించవచ్చు.
 
 --- task ---
 
-To do this, click on the **Sounds** tab.
+ఇందు కోసం, **Sounds** ట్యాబ్‌పై క్లిక్ చేయండి.
 
-![image showing sounds tab selected](images/sounds-tab.png)
+![sounds ట్యాబ్‌ని చూపుతున్న చిత్రం ఎంచుకోబడింది](images/sounds-tab.png)
 
 --- /task ---
 
 --- task ---
 
-Click on the **Choose a Sound** icon in the bottom left-hand corner of the screen to select a sound.
+ధ్వనిని ఎంచుకోవడానికి స్క్రీన్ దిగువ ఎడమవైపు మూలలో **Choose a Sound** చిహ్నంపై క్లిక్ చేయండి.
 
-![image showing add sound icon](images/add-sound.png)
-
---- /task ---
-
---- task ---
-
-You can now search for sounds. In this project, we will use the **Rain** sound, but you can choose anything you like. Click on the **Rain** icon to select the sound.
-
-![image showing search and selection of rain sound](images/rain.png)
+![add sound చిహ్నాన్ని చూపుతున్న చిత్రం](images/add-sound.png)
 
 --- /task ---
 
 --- task ---
 
-Create a `rain`{:class="block3variables"} variable and make it appear as a **slider**.
+మీరు ఇప్పుడు శబ్దాల కోసం శోధించవచ్చు. ఈ ప్రాజెక్ట్‌లో, మనము **Rain** సౌండ్‌ని ఉపయోగిస్తాము, కానీ మీరు మీకు నచ్చినదాన్ని ఎంచుకోవచ్చు. ధ్వనిని ఎంచుకోవడానికి **Rain** చిహ్నంపై క్లిక్ చేయండి.
+
+![వర్షపు ధ్వని యొక్క శోధన మరియు ఎంపికను చూపుతున్న చిత్రం](images/rain.png)
 
 --- /task ---
 
 --- task ---
 
-Add code to `play`{:class="block3sound"} the `Rain`{:class="block3sound"} sound `forever`{:class="block3control"}, and `set`{:class="block3sound"} the `volume`{:class="block3sound"} of the sound to the value of the `rain`{:class="block3variables"} variable.
+`Rain`{:class="block3variables"} వేరియబుల్‌ని సృష్టించండి మరియు దానిని **slider**వలె కనిపించేలా చేయండి.
 
-![image of backdrop](images/backdrop-sprite.png)
+--- /task ---
+
+--- task ---
+
+`play`{:class="block3sound"} `Rain`{:class="block3sound"} ధ్వని `forever`{:class="block3control"} కి కోడ్ ను జోడించండి మరియు `volume`{:class="block3sound"} విలువకి, `Rain`{:class="block3variables"} వేరియబుల్ ను `set`{:class="block3sound"} చేయండి.
+
+![నేపథ్య చిత్రం](images/backdrop-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -82,6 +82,6 @@ set volume to (rain) %
 
 --- /task ---
 
-Click on the green flag to run your code and change the volume of the rain with the slider.
+మీ కోడ్‌ని అమలు చేయడానికి మరియు స్లయిడర్‌తో వర్షం యొక్క వాల్యూమ్‌ను మార్చడానికి ఆకుపచ్చ జెండాపై క్లిక్ చేయండి.
 
 --- save ---
