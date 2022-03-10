@@ -1,26 +1,26 @@
-## Set the scene
+## दृश्य को स्थापित करें
 
-In Scratch, you can also add code to the **Stage**, rather than to a sprite. In this step, you will change the brightness of the backdrop and add some soothing sound effects.
+Scratch में, आप स्प्राइट के बजाय **Stage** में भी कोड जोड़ सकते हैं। इस चरण में, आप बैक्ड्राप (पृष्ठभूमि) की चमक को बदल देंगे और कुछ सुखदायक ध्वनि प्रभाव जोड़ेंगे।
 
 --- task ---
 
-Go to the Stage pane and click on the **backdrop**. You will now develop a program for the **backdrop** in the Code area.
+स्टेज पेन पर जाएं और **backdrop**पर क्लिक करें। अब आप Code क्षेत्र में पृष्ठभूमि **बैक्ड्राप** के लिए एक प्रोग्राम विकसित करेंगे।
 
-![image of backdrop selection](images/backdrop.png)
+![पृष्ठभूमि चयन की छवि](images/backdrop.png)
 
-In the `Variables`{:class="block3variables"} blocks menu, click on **Make a Variable** and call the new variable `light`. Change the variable to a **slider** with a range between `-40` and `40`.
+`Variable`{:class="block3variables"} ब्लॉक मेनू में, **Make a Variable** पर क्लिक करें और नए वेरिएबल का नाम `light` रखें। वेरिएबल को **slider** में बदलें और रेंज (सीमा) `-40` और `40`बीच रखें।
 
 --- /task ---
 
 --- task ---
 
-Just as before, you can use this variable to change the appearance of the backdrop.
+पहले की तरह ही, आप इस वेरिएबल का उपयोग बैकड्रॉप का रूप बदलने के लिए कर सकते हैं।
 
-Use the `set color effect to`{:class="block3looks"} block, but use the drop-down menu to change `color`{:class="block3looks"} to `brightness`{:class="block3looks"}.
+`set color effect to`{:class="block3looks"} ब्लॉक का उपयोग करें, लेकिन `color`{:class="block3looks"} को `brightness`{:class="block3looks"} में बदलने के लिए ड्रॉप-डाउन मेनू का उपयोग करें
 
-![image showing selection for the looks effect block](images/brightness.png)
+![रूप प्रभाव ब्लॉक का चयनदिखाते हुए छवि](images/brightness.png)
 
-![image of backdrop](images/backdrop-sprite.png)
+![पृष्ठभूमि की छवि](images/backdrop-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -30,45 +30,45 @@ set [brightness v] effect to (light)
 
 --- /task ---
 
-Now, when you adjust the `light`{:class="block3variables"} slider, you should see the forest change its brightness so that it looks like a dark evening or a bright summer's day.
+अब, जब आप `light`{:class="block3variables"} स्लाइडर को समायोजित करते हैं, तो आप देखेंगे कि जंगल की चमक बदल जाती है ताकि यह एक गहरी शाम या एक तेज़ गर्मी के दिन की तरह दिखे।
 
-You can also add sound effects to the **Stage**.
+**Stage** पर आप ध्वनि प्रभाव भी जोड़ सकते हैं।
 
 --- task ---
 
-To do this, click on the **Sounds** tab.
+ऐसा करने के लिए, **Sounds** टैब पर क्लिक करें।
 
-![image showing sounds tab selected](images/sounds-tab.png)
+![चयनित sounds टैब दिखाते हुए छवि](images/sounds-tab.png)
 
 --- /task ---
 
 --- task ---
 
-Click on the **Choose a Sound** icon in the bottom left-hand corner of the screen to select a sound.
+ध्वनि का चयन करने के लिए स्क्रीन के निचले बाएं कोने में **choose a sound** आइकन पर क्लिक करें।
 
-![image showing add sound icon](images/add-sound.png)
-
---- /task ---
-
---- task ---
-
-You can now search for sounds. In this project, we will use the **Rain** sound, but you can choose anything you like. Click on the **Rain** icon to select the sound.
-
-![image showing search and selection of rain sound](images/rain.png)
+![add soundआइकन दिखाते हुए छवि](images/add-sound.png)
 
 --- /task ---
 
 --- task ---
 
-Create a `rain`{:class="block3variables"} variable and make it appear as a **slider**.
+अब आप ध्वनियों को खोज सकते हैं। इस परियोजना में, हम वर्षा **Rain** ध्वनि का उपयोग करेंगे, लेकिन आप अपनी पसंद की कोई भी चीज़ चुन सकते हैं। ध्वनि का चयन करने के **Rain** आइकन पर क्लिक करें।
+
+![rain ध्वनि की खोज और चयन दिखाने वाली छवि](images/rain.png)
 
 --- /task ---
 
 --- task ---
 
-Add code to `play`{:class="block3sound"} the `Rain`{:class="block3sound"} sound `forever`{:class="block3control"}, and `set`{:class="block3sound"} the `volume`{:class="block3sound"} of the sound to the value of the `rain`{:class="block3variables"} variable.
+`Rain`{:class="block3variables"} वेरिएबल बनाएं और इसे **slider**रूप में प्रदर्शित करें।
 
-![image of backdrop](images/backdrop-sprite.png)
+--- /task ---
+
+--- task ---
+
+`play` {:class="block3sound"} कोड `Rain`{:class="block3sound"} ध्वनि `forever`{:class="block3control"} में जोड़ें, और ध्वनि की प्रबलता को `set`{:class="block3sound"} `volume`{:class="block3sound"} `rain`{:class="block3variables"} वेरिएबल में जोड़ें।
+
+![पृष्ठभूमि की छवि](images/backdrop-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -82,6 +82,6 @@ set volume to (rain) %
 
 --- /task ---
 
-Click on the green flag to run your code and change the volume of the rain with the slider.
+अपना कोड चलाने के लिए हरे झंडे पर क्लिक करें और स्लाइडर के साथ बारिश की मात्रा बदलें।
 
 --- save ---
