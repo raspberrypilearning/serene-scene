@@ -1,11 +1,11 @@
-## Share
+## ಹಂಚಿಕೊಳ್ಳಿ
 
-If you do not have a Scratch account already, set up an account so that you can save your projects online and share them with others. To do this, follow the instructions below:
+ನೀವು ಈಗಾಗಲೇ Scratch ಖಾತೆಯನ್ನು ಹೊಂದಿಲ್ಲವಾದರೆ, ಖಾತೆಯನ್ನು ಸಿದ್ಧ ಮಾಡಿ ಇದರಿಂದ ನೀವು ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್‌ಗಳನ್ನು ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ಸೇವ್‌ ಮಾಡಬಹುದು ಮತ್ತು ಇತರರೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಬಹುದು. ಇದನ್ನು ಮಾಡಲು, ಕೆಳಗಿನ ಸೂಚನೆಗಳನ್ನು ಅನುಸರಿಸಿ:
 
 [[[create-scratch-account]]]
 
-If you have an account already, you can share your completed Scratch project with your friends and family. To do this, follow the instructions below:
+ನೀವು ಈಗಾಗಲೇ ಖಾತೆಯನ್ನು ಹೊಂದಿದ್ದರೆ, ನಿಮ್ಮ ಪೂರ್ಣಗೊಂಡ Scratch ಪ್ರಾಜೆಕ್ಟ್‌ಗಳನ್ನು ನಿಮ್ಮ ಸ್ನೇಹಿತರು ಮತ್ತು ಕುಟುಂಬದೊಂದಿಗೆ ನೀವು ಹಂಚಿಕೊಳ್ಳಬಹುದು. ಇದನ್ನು ಮಾಡಲು, ಕೆಳಗಿನ ಸೂಚನೆಗಳನ್ನು ಅನುಸರಿಸಿ:
 
 [[[share-scratch]]]
 
-If you are in a club, why not demonstrate your project to friends and peers?
+ನೀವು ಕ್ಲಬ್‌ನಲ್ಲಿದ್ದರೆ, ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್‌ನ್ನು ಸ್ನೇಹಿತರು ಮತ್ತು ಗೆಳೆಯರೊಂದಿಗೆ ಏಕೆ ಹಂಚಿಕೊಳ್ಳಬಾರದು?
