@@ -1,25 +1,27 @@
 ---
-title: Serene scene
+title: ಪ್ರಶಾಂತ ದೃಶ್ಯ
 hero_image: images/serene-banner.png
-description: Create a peaceful forest scene for you to look at, listen to, and relax with
+description: ನೀವು ನೋಡಲು, ಕೇಳಲು ಮತ್ತು ವಿಶ್ರಾಂತಿ ಪಡೆಯಲು ಪ್ರಶಾಂತವಾದ ಅರಣ್ಯದ ದೃಶ್ಯವನ್ನು ರಚಿಸಿ
 version: 4
 listed: true
 copyedit: true
-last_tested: "2020-09-01"
+last_tested: '2020-09-01'
 steps:
   - 
-    title: Introduction
+    title: ಪರಿಚಯ
+    completion: engaged
   - 
-    title: Grow a tree
+    title: ಮರವೊಂದನ್ನು ಬೆಳೆಸಿ
   - 
-    title: Colour the flowers
+    title: ಹೂವಗಳಿಗೆ ಬಣ್ಣ ನೀಡಿ
   - 
-    title: Set the scene
+    title: ದೃಶ್ಯವನ್ನು ಹೊಂದಿಸಿ
   - 
-    title: Make the fauna move
+    title: ಪ್ರಾಣಿಗಳನ್ನು ಚಲಿಸುವಂತೆ ಮಾಡಿ
+    completion: internal
   - 
-    title: Add more
+    title: ಇನ್ನಷ್ಟು ಸೇರಿಸಿ
   - 
-    title: Share
+    title: ಹಂಚಿಕೊಳ್ಳಿ
   - 
-    title: "What next?"
+    title: ಮುಂದೆ ಏನು?
