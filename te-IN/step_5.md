@@ -1,12 +1,12 @@
-## Make the fauna move
+## జంతుజాలం కదిలేలా చేయండి
 
-**Fauna** means **animals**. In this step, you will add a moving grasshopper to your serene scene.
+**జంతుజాలం** అంటే **జంతువులు**. ఈ దశలో, మీరు మీ నిర్మలమైన దృశ్యానికి కదిలే మిడతను జోడిస్తారు.
 
 --- task ---
 
-Set up the **Grasshopper** sprite so that it moves from left to right and appears behind the tree and flowers.
+**Grasshopper** sprite ను సెటప్ చేయండి, తద్వారా అది ఎడమ నుండి కుడికి కదులుతుంది మరియు చెట్టు మరియు పువ్వుల వెనుక కనిపిస్తుంది.
 
-![image of grasshopper sprite](images/grasshopper-sprite.png)
+![grasshopper sprite యొక్క చిత్రం](images/grasshopper-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -18,9 +18,9 @@ set rotation style [left-right v]
 
 --- task ---
 
-Now, make your **Grasshopper** sprite move back and forth across the Stage.
+ఇప్పుడు, మీ **Grasshopper** sprite ని Stageలో ముందుకు వెనుకకు కదిలేలా చేయండి.
 
-![image of grasshopper sprite](images/grasshopper-sprite.png)
+![grasshopper sprite యొక్క చిత్రం](images/grasshopper-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -33,19 +33,19 @@ if on edge, bounce
 ```
 --- /task ---
 
-The **Grasshopper** sprite is moving a little quickly at the moment, but you can use a `variable`{:class="block3variables"} and a `wait`{:class="block3control"} block to slow it down.
+**Grasshopper** sprite ప్రస్తుతానికి కొంచెం వేగంగా కదులుతోంది, కానీ మీరు దానిని నెమ్మదించడానికి `వేరియబుల్`{:class="block3variables"} మరియు `wait`{:class="block3control"} బ్లాక్‌ని ఉపయోగించవచ్చు.
 
 --- task ---
 
-Create a new `variable`{:class="block3variables"} called `grasshopper` and switch it to a **slider**.
+`grasshopper` అని పిలువబడే కొత్త ` వేరియబుల్ `{:class="block3variables"}ని సృష్టించండి మరియు దానిని **slider** కు మార్చండి.
 
 --- /task ---
 
 --- task ---
 
-Now, you can use a `wait`{:class="block3control"} block to slow the grasshopper down.
+ఇప్పుడు, మీరు `wait`{:class="block3control"} బ్లాక్‌ని ఉపయోగించి మిడత వేగాన్ని తగ్గించవచ్చు.
 
-![image of grasshopper sprite](images/grasshopper-sprite.png)
+![grasshopper sprite యొక్క చిత్రం](images/grasshopper-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -60,19 +60,19 @@ if on edge, bounce
 
 --- /task ---
 
-If you click on the green flag and move the slider, you will notice that the grasshopper moves very slowly. To fix this, you need to change the range of the `grasshopper`{:class="block3variables"} variable to a much smaller range of numbers.
+మీరు ఆకుపచ్చ జెండాపై క్లిక్ చేసి, స్లైడర్‌ను కదిలిస్తే, మిడత చాలా నెమ్మదిగా కదులుతున్నట్లు మీరు గమనించవచ్చు. దీన్ని పరిష్కరించడానికి, మీరు `grasshopper`{:class="block3variables"} వేరియబుల్ పరిధిని చాలా తక్కువ పరిధికి మార్చాలి.
 
 --- task ---
 
-On the Stage, right-click on the `grasshopper`{:class="block3variables"} variable and change the slider range to between `0.0` and `1.0`.
+`grasshopper`{:class="block3variables"} వేరియబుల్‌పై రైట్-క్లిక్ చేసి `0.0` మరియు పరిధిని `1.0`మధ్యకు మార్చండి.
 
-![image of grasshopper range](images/grasshopper-range.png)
+![మిడత పరిధి యొక్క చిత్రం](images/grasshopper-range.png)
 
 --- /task ---
 
 --- task ---
 
-Click on the green flag, then adjust your `grasshopper`{:class="block3variables"} slider to see the **Grasshopper** sprite change speed.
+ఆకుపచ్చ జెండాపై క్లిక్ చేసి, ఆపై **grasshopper** sprite వేగంలో మార్పు వచ్చేలా `grasshopper`{:class="block3variables"} స్లయిడర్‌ని సర్దుబాటు చేయండి.
 
 --- /task ---
 
