@@ -1,12 +1,12 @@
-## Make the fauna move
+## ಪ್ರಾಣಿಗಳನ್ನು ಚಲಿಸುವಂತೆ ಮಾಡಿ
 
-**Fauna** means **animals**. In this step, you will add a moving grasshopper to your serene scene.
+**ಪ್ರಾಣಿಸಂಕುಲ** ಅಂದರೆ **ಪ್ರಾಣಿಗಳು**. ಈ ಹಂತದಲ್ಲಿ, ನಿಮ್ಮ ಪ್ರಶಾಂತ ದೃಶ್ಯಕ್ಕೆ ನೀವು ಚಲಿಸುವ ಮಿಡತೆಯನ್ನು ಸೇರಿಸುತ್ತೀರಿ.
 
 --- task ---
 
-Set up the **Grasshopper** sprite so that it moves from left to right and appears behind the tree and flowers.
+**Grasshopper** ಸ್ಪ್ರೈಟ್‌ನ್ನು ಅದು ಎಡದಿಂದ ಬಲಕ್ಕೆ ಚಲಿಸುವಂತೆ ಮತ್ತು ಮರ ಮತ್ತು ಹೂವುಗಳ ಹಿಂದೆ ಕಾಣುವಂತೆ ಹೊಂದಿಸಿ.
 
-![image of grasshopper sprite](images/grasshopper-sprite.png)
+![grasshopper ಸ್ಪ್ರೈಟ್‌ನ ಚಿತ್ರ](images/grasshopper-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -14,13 +14,13 @@ go to [back v] layer
 set rotation style [left-right v]
 ```
 
---- /task ---
+--- /ಕಾರ್ಯ ---
 
 --- task ---
 
-Now, make your **Grasshopper** sprite move back and forth across the Stage.
+ಈಗ, ನಿಮ್ಮ **Grasshopper** ಸ್ಪ್ರೈಟ್‌ ವೇದಿಕೆಯ ಉದ್ದಕ್ಕೆ ಹಿಂದೆ ಮತ್ತು ಮುಂದೆ ಚಲಿಸುವಂತೆ ಮಾಡಿ.
 
-![image of grasshopper sprite](images/grasshopper-sprite.png)
+![grasshopper ಸ್ಪ್ರೈಟ್‌ನ ಚಿತ್ರ](images/grasshopper-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -31,21 +31,21 @@ move [5] steps
 next costume
 if on edge, bounce
 ```
---- /task ---
+--- /ಕಾರ್ಯ ---
 
-The **Grasshopper** sprite is moving a little quickly at the moment, but you can use a `variable`{:class="block3variables"} and a `wait`{:class="block3control"} block to slow it down.
-
---- task ---
-
-Create a new `variable`{:class="block3variables"} called `grasshopper` and switch it to a **slider**.
-
---- /task ---
+**Grasshopper** ಸ್ಪ್ರೈಟ್‌ ಈ ಕ್ಷಣದಲ್ಲಿ ಸ್ವಲ್ಪ ಬೇಗ ಬೇಗ ಚಲಿಸುತ್ತಿದೆ, ಆದರೆ ನೀವು ಅದನ್ನು ನಿಧಾನ ಮಾಡಲು `variable`{:class="block3variables"} ಮತ್ತು `wait`{:class="block3control"} ಬ್ಲಾಕ್‌ನ್ನುಉಪಯೋಗಿಸಬಹುದು.
 
 --- task ---
 
-Now, you can use a `wait`{:class="block3control"} block to slow the grasshopper down.
+`grasshopper` ಎನ್ನುವ ಹೊಸ `variable`{:class="block3variables"}ನ್ನು ರಚಿಸಿ ಮತ್ತು ಅದನ್ನು **slider** ಆಗಿ ಬದಲಿಸಿ.
 
-![image of grasshopper sprite](images/grasshopper-sprite.png)
+--- /task ---
+
+--- ಕಾರ್ಯ ---
+
+ಈಗ, ನೀವು `wait`{:class="block3control"} ಬ್ಲಾಕ್‌ನ್ನು ಮಿಡತೆಯನ್ನು ನಿಧಾನ ಮಾಡಲು ಉಪಯೋಗಿಸಬಹುದು.
+
+![grasshopper ಸ್ಪ್ರೈಟ್‌ನ ಚಿತ್ರ](images/grasshopper-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -58,21 +58,21 @@ if on edge, bounce
 + wait (grasshopper) seconds
 ```
 
---- /task ---
+--- /ಕಾರ್ಯ ---
 
-If you click on the green flag and move the slider, you will notice that the grasshopper moves very slowly. To fix this, you need to change the range of the `grasshopper`{:class="block3variables"} variable to a much smaller range of numbers.
-
---- task ---
-
-On the Stage, right-click on the `grasshopper`{:class="block3variables"} variable and change the slider range to between `0.0` and `1.0`.
-
-![image of grasshopper range](images/grasshopper-range.png)
-
---- /task ---
+ನೀವು ಹಸಿರು ಬಾವುಟದ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ ಸ್ಲೈಡರ್‌ ಚಲಿಸಿದರೆ, ನೀವು ಮಿಡತೆ ತುಂಬಾ ನಿಧಾನವಾಗಿ ಚಲಿಸುವುದನ್ನು ಗಮನಿಸಬಹುದು. ಇದನ್ನು ಸರಿಪಡಿಸಲು, ನೀವು `grasshopper`{:class="block3variables"} ವೇರಿಯೇಬಲ್‌ನ ಶ್ರೇಣಿಯನ್ನು ಹೆಚ್ಚು ಸಣ್ಣ ಸಂಖ್ಯೆಯ ಶ್ರೇಣಿಗೆ ಬದಲಾಯಿಸಬೇಕು.
 
 --- task ---
 
-Click on the green flag, then adjust your `grasshopper`{:class="block3variables"} slider to see the **Grasshopper** sprite change speed.
+Stage ಮೇಲೆ, `grasshopper`{:class="block3variables"} ವೇರಿಯೇಬಲ್‌ ಮೇಲೆ ರೈಟ್‌-ಕ್ಲಿಕ್‌ ಮಾಡಿ ಮತ್ತು ಸ್ಲೈಡರ್‌ ಶ್ರೇಣಿಯನ್ನು `0.0` ಮತ್ತು `1.0` ನಡುವೆ ಬದಲಾಯಿಸಿ.
+
+![ಮಿಡತೆ ಶ್ರೇಣಿಯ ಚಿತ್ರ](images/grasshopper-range.png)
+
+--- /ಕಾರ್ಯ ---
+
+--- task ---
+
+ಹಸಿರು ಬಾವುಟದ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ, ನಂತರ **Grasshopper** ಸ್ಪ್ರೈಟ್‌ ವೇಗವನ್ನು ಬದಲಾಯಿಸುವುದನ್ನು ನೋಡಲು, ನಿಮ್ಮ `grasshopper`{:class="block3variables"} ಸ್ಲೈಡರ್‌ನ್ನು ಹೊಂದಿಸಿ.
 
 --- /task ---
 
