@@ -1,11 +1,11 @@
-## Share
+## शेअर करा
 
-If you do not have a Scratch account already, set up an account so that you can save your projects online and share them with others. To do this, follow the instructions below:
+तुमच्याकडे आधीपासून Scratch खाते नसल्यास, खाते सेट करा जेणेकरून तुम्ही तुमचे प्रोजेक्ट ऑनलाइन सेव्ह करू शकता आणि ते इतरांसोबत शेअर करू शकता. हे करण्यासाठी, खालील सूचनांचे पालन करा:
 
 [[[create-scratch-account]]]
 
-If you have an account already, you can share your completed Scratch project with your friends and family. To do this, follow the instructions below:
+तुमच्याकडे आधीपासूनच खाते असल्यास, तुम्ही तुमचा पूर्ण झालेला Scratch प्रोजेक्ट तुमच्या मित्र आणि कुटुंबियांसोबत शेअर करू शकता. हे करण्यासाठी, खालील सूचनांचे पालन करा:
 
 [[[share-scratch]]]
 
-If you are in a club, why not demonstrate your project to friends and peers?
+जर तुम्ही क्लबमध्ये असाल, तर तुमचा प्रोजेक्ट मित्र आणि सहकार्यांना का दाखवत नाही?
