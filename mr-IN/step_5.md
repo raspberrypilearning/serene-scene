@@ -1,12 +1,12 @@
-## Make the fauna move
+## जीवजंतू हलवा
 
-**Fauna** means **animals**. In this step, you will add a moving grasshopper to your serene scene.
+**जीवजंतू** म्हणजे **प्राणी**. या टप्प्यात, तुम्ही तुमच्या प्रसन्न दृश्यात हलणारे गवती टोळ जोडाल.
 
 --- task ---
 
-Set up the **Grasshopper** sprite so that it moves from left to right and appears behind the tree and flowers.
+**Grasshopper** स्प्राईट सेट करा जेणेकरून ते झाड आणि फुलांमध्ये डावीकडून उजवीकडे हलतील.
 
-![image of grasshopper sprite](images/grasshopper-sprite.png)
+![Grasshopper स्प्राईटची इमेज](images/grasshopper-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -18,9 +18,9 @@ set rotation style [left-right v]
 
 --- task ---
 
-Now, make your **Grasshopper** sprite move back and forth across the Stage.
+आता, तुमच्या **Grasshopper** स्प्राईटला स्टेजभोवती मागे आणि पुढे हलू द्या.
 
-![image of grasshopper sprite](images/grasshopper-sprite.png)
+![grasshopper स्प्राईटची इमेज](images/grasshopper-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -33,19 +33,19 @@ if on edge, bounce
 ```
 --- /task ---
 
-The **Grasshopper** sprite is moving a little quickly at the moment, but you can use a `variable`{:class="block3variables"} and a `wait`{:class="block3control"} block to slow it down.
+**Grasshopper** स्प्राईट या क्षणात थोडे जलद हलत आहेत, परंतु तुम्ही `variable`{:class="block3variables"} चा आणि `wait`{:class="block3control"} ब्लॉकचा त्याला हळू करण्यासाठी वापर करू शकता.
 
 --- task ---
 
-Create a new `variable`{:class="block3variables"} called `grasshopper` and switch it to a **slider**.
+नवीन`variable`{:class="block3variables"} ज्याला `grasshopper` म्हणतात तो तयार करा आणि तो **slider** मधे बदला.
 
 --- /task ---
 
 --- task ---
 
-Now, you can use a `wait`{:class="block3control"} block to slow the grasshopper down.
+आता, grasshopper हळू करण्यासाठी`wait`{:class="block3control"} ब्लॉक वापरू शकता.
 
-![image of grasshopper sprite](images/grasshopper-sprite.png)
+![grasshopper स्प्राईटची इमेज](images/grasshopper-sprite.png)
 
 ```blocks3
 when flag clicked
@@ -60,19 +60,19 @@ if on edge, bounce
 
 --- /task ---
 
-If you click on the green flag and move the slider, you will notice that the grasshopper moves very slowly. To fix this, you need to change the range of the `grasshopper`{:class="block3variables"} variable to a much smaller range of numbers.
+हिरव्या झेंड्यावर तुम्ही क्लिक केल्यास आणि स्लाईडर हलवल्यास, तुम्हाला grasshopper फार हळूवार हलत असल्याचे दिसेल. हे दुरूस्त करण्यासाठी, तुम्हाला `grasshopper`{:class="block3variables"} व्हेरिएबलची रेंज संख्येच्या फार कमी रेंजमध्ये बदलायला हवी.
 
 --- task ---
 
-On the Stage, right-click on the `grasshopper`{:class="block3variables"} variable and change the slider range to between `0.0` and `1.0`.
+Stage वर, `grasshopper `{:class="block3variables"} व्हेरिएबलवर राईट-क्लिक करा आणि स्लाईडरची रेंज `0.0` आणि `1.0` दरम्यान बदला.
 
-![image of grasshopper range](images/grasshopper-range.png)
+![grasshopper रेंजची इमेज](images/grasshopper-range.png)
 
 --- /task ---
 
 --- task ---
 
-Click on the green flag, then adjust your `grasshopper`{:class="block3variables"} slider to see the **Grasshopper** sprite change speed.
+हिरव्या झेंड्यावर क्लिक करा, त्यानंतर **Grasshopper** स्प्राईटची बदलणारी गती बघण्यासाठी तुमचा `grasshopper`{:class="block3variables"} स्लाईडर ऍडजस्ट करा.
 
 --- /task ---
 
