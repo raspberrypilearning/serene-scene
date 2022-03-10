@@ -1,10 +1,10 @@
-## Add more
+## మరిన్ని జోడించండి
 
 --- task ---
 
-Add a **dragonfly** sprite to your project, and use a `variable`{:class="block3variables"} slider to control the speed at which the dragonfly moves. The dragonfly could move from side to side, like the grasshopper.
+మీ ప్రాజెక్ట్‌కు **dragonfly** sprite ని జోడించండి `వేరియబుల్`{:class="block3variables"} స్లయిడర్‌ను ఉపయోగించండి. తూనీగ మిడత లాగా పక్క నుండి పక్కకు కదలగలదు.
 
-![animated gif of forest with randomly moving butterfly](images/dragonfly.gif)
+![క్రమరహితంగా కదిలే సీతాకోకచిలుకను కలిగిన అడవి యొక్క యానిమేటెడ్ gif](images/dragonfly.gif)
 
 --- /task ---
 
