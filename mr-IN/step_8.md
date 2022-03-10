@@ -1,10 +1,10 @@
-## What next?
+## पुढे काय?
 
-In this project, you have:
-- Created `variables`{:class="block3variables"} to store values for your sprites
-- Used sliders to change the value of `variables`{:class="block3variables"} so that your sprites have a range of looks, movement, and sound
-- Used `forever`{:class="block3control"} loops to make the interactive animation continue
+या प्रकल्पामध्ये, आपल्याकडे आहे:
+- तुमच्या स्प्राईटसाठी व्हॅल्यू स्टोअर करायला `variables`{:class="block3variables"}
+- स्लाईडर `variables`{:class="block3variables"} ची व्हॅल्यू बदलण्यासाठी वापरले जेणेकरून तुमच्या स्प्राईट्सला लूक, मूवमेंट, आणि साऊंड यांची रेंज असेल
+- संवादात्मक ऍनिमेशन कंटीन्यू तयार करण्यासाठी `forever`{:class="block3control"} लूप वापरले
 
-If you are following the [Look after yourself](https://projects.raspberrypi.org/en/pathways/look-after-yourself) projects, then try out the next project, [Fruit salad](https://projects.raspberrypi.org/en/projects/fruit-salad).
+तुम्ही [स्वतःकडे लक्ष द्या](https://projects.raspberrypi.org/en/pathways/look-after-yourself) प्रोजेक्टचे पालन करत असलात, तर पुढील प्रोजेक्ट [फ्रुट सलाद](https://projects.raspberrypi.org/en/projects/fruit-salad) चा प्रयत्न करा.
 
-Did you enjoy the project? Have you spotted a mistake? Please click the **Send feedback** button below and let us know!
+तुम्ही प्रोजेक्टचा आनंद घेतला का? तुमची चूक लक्षात आली आहे का? कृपया खालील **Send feedback** बटणावर क्लिक करा आणि आम्हाला कळवा!
