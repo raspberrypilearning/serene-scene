@@ -10,10 +10,10 @@ steps:
   - title: परिचय
     completion: engaged
   - title: एक पेड़ लगाएं
-  - title: Colour the flowers
-  - title: दृश्य तैयार करें
-  - title: जीवजन्तु को हिलाएँ
+  - title: फूलों को रंगें
+  - title: दृश्य को स्थापित करें
+  - title: जीव जंतुओं को हिलाएँ
     completion: internal
-  - title: अधिक जोड़ें
+  - title: और जोड़ें
   - title: साझा करना
   - title: आगे क्या?

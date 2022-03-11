@@ -66,7 +66,7 @@ set [brightness v] effect to (light)
 
 --- task ---
 
-`play` {:class="block3sound"} कोड `Rain`{:class="block3sound"} ध्वनि `forever`{:class="block3control"} में जोड़ें, और ध्वनि की प्रबलता को `set`{:class="block3sound"} `volume`{:class="block3sound"} `rain`{:class="block3variables"} वेरिएबल में जोड़ें।
+`play`{:class="block3sound"} कोड `Rain`{:class="block3sound"} ध्वनि `forever`{:class="block3control"} में जोड़ें, और ध्वनि की प्रबलता को `set`{:class="block3sound"} `volume`{:class="block3sound"} `rain`{:class="block3variables"} वेरिएबल में जोड़ें।
 
 ![पृष्ठभूमि की छवि](images/backdrop-sprite.png)
 
