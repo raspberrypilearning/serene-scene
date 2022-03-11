@@ -1,0 +1,19 @@
+---
+title: ಪ್ರಶಾಂತ ದೃಶ್ಯ
+hero_image: images/serene-banner.png
+description: ನೀವು ನೋಡಲು, ಕೇಳಲು ಮತ್ತು ವಿಶ್ರಾಂತಿ ಪಡೆಯಲು ಪ್ರಶಾಂತವಾದ ಅರಣ್ಯದ ದೃಶ್ಯವನ್ನು ರಚಿಸಿ
+version: 4
+listed: true
+copyedit: true
+last_tested: '2020-09-01'
+steps:
+  - title: ಪರಿಚಯ
+    completion: engaged
+  - title: ಮರವೊಂದನ್ನು ಬೆಳೆಸಿ
+  - title: ಹೂವಗಳಿಗೆ ಬಣ್ಣ ನೀಡಿ
+  - title: ದೃಶ್ಯವನ್ನು ಹೊಂದಿಸಿ
+  - title: ಪ್ರಾಣಿಗಳನ್ನು ಚಲಿಸುವಂತೆ ಮಾಡಿ
+    completion: internal
+  - title: ಇನ್ನಷ್ಟು ಸೇರಿಸಿ
+  - title: ಹಂಚಿಕೊಳ್ಳಿ
+  - title: ಮುಂದೆ ಏನು?
