@@ -54,4 +54,4 @@ title: అధ్యాపకులకు అదనపు సమాచారం
 
 మీరు ఈ ప్రాజెక్ట్‌ను ప్రింట్ చేయాలనుకుంటే, దయచేసి [ప్రింటర్ అనుకూల వెర్షన్](https://projects.raspberrypi.org/te-IN/projects/serene-scene/print){:target="_blank"} ని ఉపయోగించండి.
 
---- /కొలాప్స్ ---
+--- /collapse ---
