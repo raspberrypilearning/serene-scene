@@ -64,7 +64,7 @@ Stage पर, `tree`{:class="block3variables"} वेरियबल पर र�
 
 --- task ---
 
-Move the slider forwards and backwards, and you will see that the value of the `tree`{:class="block3variables"} variable changes between `0`{:class="block3variables"} and `100`{:class="block3variables"} (percent).
+स्लाइडर को आगे और पीछे ले जाएँ, और आप देखेंगे कि `tree`{:class="block3variables"} वेरिएबल का मान `0`{:class="block3variables"} और `100`{:class="block3variables"} (प्रतिशत) के बीच बदलता है।
 
 --- /task ---
 
