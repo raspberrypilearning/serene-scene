@@ -1,19 +1,22 @@
 ---
 title: నిర్మలమైన దృశ్యం
 hero_image: images/serene-banner.png
-description: మీరు చూడటానికి, వినడానికి మరియు విశ్రాంతి తీసుకోవడానికి ప్రశాంతమైన అటవీ దృశ్యాన్ని సృష్టించండి
+description: మీరు చూడటానికి, వినడానికి మరియు విశ్రాంతి తీసుకోవడానికి ప్రశాంతమైన అటవీ
+  దృశ్యాన్ని సృష్టించండి
 version: 4
 listed: true
 copyedit: true
 last_tested: '2020-09-01'
 steps:
-  - title: పరిచయం
-    completion: engaged
-  - title: ఒక చెట్టు పెంచండి
-  - title: పువ్వులకు రంగులు వేయండి
-  - title: సన్నివేశాన్ని సెట్ చేయండి
-  - title: జంతుజాలం కదిలేలా చేయండి
-    completion: internal
-  - title: మరిన్ని జోడించండి
-  - title: షేర్ చేయండి
-  - title: తర్వాత ఏంటి?
+- title: పరిచయం
+- title: ఒక చెట్టు పెంచండి
+- title: పువ్వులకు రంగులు వేయండి
+  completion:
+  - engaged
+- title: సన్నివేశాన్ని సెట్ చేయండి
+- title: జంతుజాలం కదిలేలా చేయండి
+  completion:
+  - internal
+- title: మరిన్ని జోడించండి
+- title: షేర్ చేయండి
+- title: తర్వాత ఏంటి?

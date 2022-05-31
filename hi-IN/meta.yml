@@ -1,19 +1,22 @@
 ---
 title: प्रशान्त दृश्य
 hero_image: images/serene-banner.png
-description: अपने लिए देखने, सुनने और उसके साथ आराम करने के लिए एक शांतिपूर्ण वन दृश्य बनाएं
+description: अपने लिए देखने, सुनने और उसके साथ आराम करने के लिए एक शांतिपूर्ण वन दृश्य
+  बनाएं
 version: 4
 listed: true
 copyedit: true
 last_tested: '2020-09-01'
 steps:
-  - title: परिचय
-    completion: engaged
-  - title: एक पेड़ लगाएं
-  - title: फूलों को रंगें
-  - title: दृश्य को स्थापित करें
-  - title: जीव जंतुओं को हिलाएँ
-    completion: internal
-  - title: और जोड़ें
-  - title: साझा करना
-  - title: आगे क्या?
+- title: परिचय
+- title: एक पेड़ लगाएं
+- title: फूलों को रंगें
+  completion:
+  - engaged
+- title: दृश्य को स्थापित करें
+- title: जीव जंतुओं को हिलाएँ
+  completion:
+  - internal
+- title: और जोड़ें
+- title: साझा करना
+- title: आगे क्या?
