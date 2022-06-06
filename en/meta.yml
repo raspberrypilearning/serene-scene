@@ -9,12 +9,14 @@ copyedit: true
 last_tested: '2020-09-01'
 steps:
 - title: Introduction
-  completion: engaged
 - title: Grow a tree
 - title: Colour the flowers
+  completion:
+  - engaged
 - title: Set the scene
 - title: Make the fauna move
-  completion: internal
+  completion:
+  - internal
 - title: Add more
 - title: Share
 - title: What next?
